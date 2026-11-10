@@ -1,0 +1,28 @@
+const imgIconBell = "http://localhost:3845/assets/9e36a36d42065e591b13023ec18d364cc87db779.svg";
+const imgUnreadBadge = "http://localhost:3845/assets/c43451e47e288e95ee1e8d72c8af2e926fa13343.svg";
+
+export default function IconButtonBell() {
+  return (
+    <div className="relative size-full" data-node-id="15:651" data-name="IconButton/bell">
+      <div className="absolute left-[12px] size-[24px] top-[12px]" data-node-id="15:652" data-name="icon/bell">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconBell} />
+      </div>
+      <div className="absolute left-[24px] size-[16px] top-[7px]" data-node-id="15:654" data-name="UnreadBadge">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUnreadBadge} />
+      </div>
+      <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Open_Sans:SemiBold'] font-semibold justify-center leading-[0] left-[32px] size-[16px] text-[8px] text-[color:var(--color\/onprimary,white)] text-center top-[15px]" data-node-id="15:655" style={{ fontVariationSettings: '"wdth" 100' }}>
+        <p className="leading-[normal]">2</p>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Image assets are stored on a localhost server. Clients can use these images directly in code as a way to view the image assets the same way they would other remote servers. Images and SVGs will be stored as constants, e.g. const image = 'http://localhost:3845/assets/10c13ac1a228a365cb98a0064b1d5afbc84887b2.png' These constants will be used in the code as the source for the image, e.g. <img src={image} /> This is true for both images and SVGs, so you can use the same approach for both types of assets.
+Figma recommends using the remote MCP server for workflows between design and code: https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/

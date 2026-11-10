@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 系统 splash 底色（Android 12+ 的 windowSplashScreenBackground）
+         与窗口底色（NormalTheme.windowBackground）共用同一个值：
+         两者都和 Dart 首屏第一帧的品牌蓝对齐，冷启动全程不换色。 -->
+    <color name="splash_background">#2563EB</color>
+    <color name="ic_launcher_background">#2563EB</color>
+</resources>

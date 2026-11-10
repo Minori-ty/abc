@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 13+ 主题图标单色层 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#FFFFFFFF" android:pathData="M58.06 32.92V59.45H51.6V43.54L45.67 59.45H40.46L34.49 43.5V59.45H28.03V32.92H35.66L43.1 51.29L50.47 32.92Z M79.97 32.92V38.1H69.17V43.69H77.25V48.72H69.17V59.45H62.71V32.92Z" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M35.09,71.65 a3.54,3.54 0 1,0 7.08,0 a3.54,3.54 0 1,0 -7.08,0" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M50.48,68.10 L69.37,68.10 A3.54,3.54 0 0,1 72.91,71.65 L72.91,71.65 A3.54,3.54 0 0,1 69.37,75.19 L50.48,75.19 A3.54,3.54 0 0,1 46.94,71.65 L46.94,71.65 A3.54,3.54 0 0,1 50.48,68.10 z" />
+</vector>

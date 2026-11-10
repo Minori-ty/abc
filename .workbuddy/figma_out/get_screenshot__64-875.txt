@@ -1,0 +1,2 @@
+[IMAGE] E:\program\flutter\abc\.workbuddy\figma_out\64-875.png
+Figma recommends using the remote MCP server for workflows between design and code: https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/

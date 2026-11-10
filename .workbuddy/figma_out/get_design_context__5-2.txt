@@ -1,0 +1,229 @@
+const imgSystemIcons = "http://localhost:3845/assets/8c85cbf4db1b63f75d235d71c3182ddf5c7f9a00.svg";
+const imgIconMoreVertical = "http://localhost:3845/assets/f1a44b2393168c1dd00fd0ef4a2b5b5206c98726.svg";
+const imgIconUsers = "http://localhost:3845/assets/71d92278092356cff8c9679bd1f6b93ab3671c4c.svg";
+const imgIconDollar = "http://localhost:3845/assets/01b5fe03a0dfbb3b04487f33b60df178a78a1052.svg";
+const imgIconChevronRight = "http://localhost:3845/assets/d4d3cc0251c608e6d21150f30650a48244f88b59.svg";
+const imgIconHome = "http://localhost:3845/assets/998fbca12119f90246c7fbae736a1b6a281e3a82.svg";
+const imgIconUsers1 = "http://localhost:3845/assets/0429669763658a2b48c731c627bc0ee0f8a12853.svg";
+const imgIconBriefcase = "http://localhost:3845/assets/36e6294314039f5c6928c3cf9dacb66b5b5b870b.svg";
+const imgIconSettingsGear = "http://localhost:3845/assets/591e376f456114d2ea6f0d18a19940d27c30bc6f.svg";
+const imgIconTrendingUp = "http://localhost:3845/assets/ad0630053950ee03853ba556b18fc960a83be951.svg";
+const imgIconMail = "http://localhost:3845/assets/b1edf466807260557c0a9c9a920f38b444ce84f8.svg";
+const imgIconPhone = "http://localhost:3845/assets/5f14287932701dc0de72f5d48b58c3d302d4cb71.svg";
+const imgIconBell = "http://localhost:3845/assets/9e36a36d42065e591b13023ec18d364cc87db779.svg";
+const imgUnreadBadge = "http://localhost:3845/assets/c43451e47e288e95ee1e8d72c8af2e926fa13343.svg";
+
+export default function Dashboard() {
+  return (
+    <div className="bg-[var(--color\/bg,#f8fafc)] relative size-full" data-node-id="5:2" data-name="Dashboard">
+      <div className="absolute h-[28px] left-0 overflow-clip top-0 w-[412px]" data-node-id="5:3" data-name="StatusBar">
+        <p className="[word-break:break-word] absolute font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] left-[20px] text-[12px] text-[color:var(--color\/fg,#0f172a)] top-[6px] whitespace-nowrap" data-node-id="5:4" style={{ fontVariationSettings: '"wdth" 100' }}>
+          9:41
+        </p>
+        <div className="absolute h-[14px] left-[334px] top-[7px] w-[58px]" data-node-id="5:5" data-name="SystemIcons">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSystemIcons} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Open_Sans:Regular'] font-normal leading-[1.45] left-[24px] text-[12px] text-[color:var(--color\/mutedfg,#475569)] top-[44px] whitespace-nowrap" data-node-id="5:16" style={{ fontVariationSettings: '"wdth" 100' }}>
+        Good morning, Alex
+      </p>
+      <p className="[word-break:break-word] absolute font-['Poppins:SemiBold'] leading-[1.25] left-[24px] not-italic text-[24px] text-[color:var(--color\/fg,#0f172a)] top-[62px] whitespace-nowrap" data-node-id="5:17">
+        Dashboard
+      </p>
+      <div className="absolute content-stretch flex items-center justify-center left-[340px] rounded-[var(--radius\/full,999px)] size-[48px] top-[48px]" data-node-id="5:21" data-name="IconButton/Ghost">
+        <div className="relative shrink-0 size-[24px]" data-node-id="I5:21;3:11" data-name="icon/more-vertical">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconMoreVertical} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,white)] border border-[var(--color\/border,#e4ecfc)] border-solid content-stretch drop-shadow-[0px_4px_6px_rgba(15,23,41,0.06)] flex flex-col gap-[var(--space\/3,12px)] items-start left-[24px] p-[16px] rounded-[var(--radius\/lg,16px)] top-[124px] w-[176px]" data-node-id="5:26" data-name="StatCard">
+        <div className="content-stretch flex h-[36px] items-center justify-between overflow-clip relative shrink-0 w-full" data-node-id="I5:26;3:45" data-name="Top">
+          <div className="bg-[var(--color\/primarysoft,#dbeafe)] content-stretch flex items-center justify-center overflow-clip relative rounded-[var(--radius\/md,12px)] shrink-0 size-[36px]" data-node-id="I5:26;3:46" data-name="IconTile">
+            <div className="relative shrink-0 size-[20px]" data-node-id="I5:26;3:47" data-name="icon/users">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconUsers} />
+            </div>
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/accenttext,#047857)] whitespace-nowrap" data-node-id="I5:26;3:49" style={{ fontVariationSettings: '"wdth" 100' }}>
+            +12.4%
+          </p>
+        </div>
+        <p className="[word-break:break-word] font-['Poppins:SemiBold'] leading-[1.2] not-italic relative shrink-0 text-[26px] text-[color:var(--color\/fg,#0f172a)] whitespace-nowrap" data-node-id="I5:26;3:50">
+          1,284
+        </p>
+        <p className="[word-break:break-word] font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)] whitespace-nowrap" data-node-id="I5:26;3:51" style={{ fontVariationSettings: '"wdth" 100' }}>
+          Total customers
+        </p>
+      </div>
+      <div className="absolute bg-[var(--color\/card,white)] border border-[var(--color\/border,#e4ecfc)] border-solid content-stretch drop-shadow-[0px_4px_6px_rgba(15,23,41,0.06)] flex flex-col gap-[var(--space\/3,12px)] items-start left-[212px] p-[16px] rounded-[var(--radius\/lg,16px)] top-[124px] w-[176px]" data-node-id="5:35" data-name="StatCard/Revenue">
+        <div className="content-stretch flex h-[36px] items-center justify-between overflow-clip relative shrink-0 w-full" data-node-id="I5:35;4:4" data-name="Top">
+          <div className="bg-[var(--color\/accentsoft,#d1fae5)] content-stretch flex items-center justify-center overflow-clip relative rounded-[var(--radius\/md,12px)] shrink-0 size-[36px]" data-node-id="I5:35;4:5" data-name="IconTile">
+            <div className="relative shrink-0 size-[20px]" data-node-id="I5:35;4:11" data-name="icon/dollar">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconDollar} />
+            </div>
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/accenttext,#047857)] whitespace-nowrap" data-node-id="I5:35;4:8" style={{ fontVariationSettings: '"wdth" 100' }}>
+            +8.2%
+          </p>
+        </div>
+        <p className="[word-break:break-word] font-['Poppins:SemiBold'] leading-[1.2] not-italic relative shrink-0 text-[26px] text-[color:var(--color\/fg,#0f172a)] whitespace-nowrap" data-node-id="I5:35;4:9">
+          $184K
+        </p>
+        <p className="[word-break:break-word] font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)] whitespace-nowrap" data-node-id="I5:35;4:10" style={{ fontVariationSettings: '"wdth" 100' }}>
+          Pipeline value
+        </p>
+      </div>
+      <div className="absolute bg-[var(--color\/primary,#2563eb)] content-stretch flex flex-col gap-[8px] items-start left-[24px] overflow-clip px-[18px] py-[16px] rounded-[var(--radius\/lg,16px)] shadow-[0px_4px_12px_0px_rgba(15,23,41,0.06)] top-[286px] w-[364px]" data-node-id="5:43" data-name="FocusCard">
+        <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/onprimary,white)] whitespace-nowrap" data-node-id="5:44" style={{ fontVariationSettings: '"wdth" 100' }}>{`TODAY'S FOCUS`}</p>
+        <p className="[word-break:break-word] font-['Poppins:SemiBold'] leading-[1.35] not-italic relative shrink-0 text-[16px] text-[color:var(--color\/onprimary,white)] whitespace-nowrap" data-node-id="5:45">
+          3 follow-ups need your attention
+        </p>
+        <div className="bg-[var(--color\/white,white)] content-stretch flex gap-[6px] h-[31px] items-center justify-center overflow-clip pl-[12px] pr-[10px] py-[7px] relative rounded-[var(--radius\/full,999px)] shrink-0" data-node-id="5:46" data-name="ViewTasks">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/primarytext,#1d4ed8)] whitespace-nowrap" data-node-id="5:47" style={{ fontVariationSettings: '"wdth" 100' }}>
+            View tasks
+          </p>
+          <div className="relative shrink-0 size-[16px]" data-node-id="5:48" data-name="icon/chevron-right">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconChevronRight} />
+          </div>
+        </div>
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex h-[24px] items-center justify-between left-[24px] top-[412px] w-[364px] whitespace-nowrap" data-node-id="5:50" data-name="SectionHeader">
+        <p className="font-['Poppins:SemiBold'] leading-[1.35] not-italic relative shrink-0 text-[16px] text-[color:var(--color\/fg,#0f172a)]" data-node-id="I5:50;3:39">
+          Recent activity
+        </p>
+        <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/primarytext,#1d4ed8)]" data-node-id="I5:50;3:40" style={{ fontVariationSettings: '"wdth" 100' }}>
+          See all
+        </p>
+      </div>
+      <div className="absolute bg-[var(--color\/card,white)] border border-[var(--color\/border,#e4ecfc)] border-solid content-stretch flex flex-col gap-[10px] items-start left-[24px] overflow-clip p-[16px] rounded-[var(--radius\/lg,16px)] shadow-[0px_4px_12px_0px_rgba(15,23,41,0.06)] top-[690px] w-[364px]" data-node-id="5:77" data-name="MonthlyTarget">
+        <div className="[word-break:break-word] content-stretch flex font-['Open_Sans:SemiBold'] font-semibold h-[10px] items-center justify-between leading-[1.5] overflow-clip relative shrink-0 text-[14px] w-[332px] whitespace-nowrap" data-node-id="5:78" data-name="Row">
+          <p className="relative shrink-0 text-[color:var(--color\/fg,#0f172a)]" data-node-id="5:79" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Monthly target
+          </p>
+          <p className="relative shrink-0 text-[color:var(--color\/accenttext,#047857)]" data-node-id="5:80" style={{ fontVariationSettings: '"wdth" 100' }}>
+            72%
+          </p>
+        </div>
+        <div className="bg-[var(--color\/muted,#f1f5fd)] h-[8px] overflow-clip relative rounded-[var(--radius\/full,999px)] shrink-0 w-[332px]" data-node-id="5:81" data-name="Track">
+          <div className="absolute bg-[var(--color\/primary,#2563eb)] h-[8px] left-0 rounded-[var(--radius\/full,999px)] top-0 w-[239px]" data-node-id="5:82" data-name="Bar" />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,white)] border border-[var(--color\/border,#e4ecfc)] border-solid content-stretch flex h-[72px] items-center left-0 top-[820px] w-[412px]" data-node-id="5:83" data-name="BottomNav">
+        <div className="content-stretch flex flex-col gap-[4px] h-[57px] items-center justify-center overflow-clip px-[12px] py-[6px] relative shrink-0 w-[103px]" data-node-id="I5:83;3:61" data-name="Item/Home">
+          <div className="absolute bg-[var(--color\/primarysoft,#dbeafe)] h-[28px] left-[29.5px] rounded-[14px] top-[3px] w-[44px]" data-node-id="I5:83;15:687" data-name="ActivePill" />
+          <div className="relative shrink-0 size-[20px]" data-node-id="I5:83;3:62" data-name="icon/home">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconHome} />
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[11px] text-[color:var(--color\/primary,#2563eb)] text-center whitespace-nowrap" data-node-id="I5:83;3:64" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Home
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[4px] h-[57px] items-center justify-center overflow-clip px-[12px] py-[6px] relative shrink-0 w-[103px]" data-node-id="I5:83;3:65" data-name="Item/Customers">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I5:83;3:66" data-name="icon/users">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconUsers1} />
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[11px] text-[color:var(--color\/mutedfg,#475569)] text-center whitespace-nowrap" data-node-id="I5:83;3:68" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Customers
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[4px] h-[57px] items-center justify-center overflow-clip px-[12px] py-[6px] relative shrink-0 w-[103px]" data-node-id="I5:83;3:69" data-name="Item/Deals">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I5:83;3:70" data-name="icon/briefcase">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconBriefcase} />
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[11px] text-[color:var(--color\/mutedfg,#475569)] text-center whitespace-nowrap" data-node-id="I5:83;3:72" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Deals
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[4px] h-[57px] items-center justify-center overflow-clip px-[12px] py-[6px] relative shrink-0 w-[103px]" data-node-id="I5:83;3:73" data-name="Item/Settings">
+          <div className="overflow-clip relative shrink-0 size-[20px]" data-node-id="I5:83;3:74" data-name="icon/sliders">
+            <div className="absolute left-0 size-[20px] top-0" data-node-id="I5:83;132:859" data-name="icon/settings-gear">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconSettingsGear} />
+            </div>
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[11px] text-[color:var(--color\/mutedfg,#475569)] text-center whitespace-nowrap" data-node-id="I5:83;3:76" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Settings
+          </p>
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,white)] border border-[var(--color\/border,#e4ecfc)] border-solid content-stretch flex flex-col items-start left-[24px] overflow-clip p-[6px] rounded-[var(--radius\/lg,16px)] shadow-[0px_4px_12px_0px_rgba(15,23,41,0.06)] top-[448px] w-[364px]" data-node-id="8:375" data-name="ActivityFeed">
+        <div className="content-stretch flex gap-[12px] items-center overflow-clip px-[10px] py-[9px] relative rounded-[var(--radius\/md,12px)] shrink-0 w-full" data-node-id="8:376" data-name="Activity/0">
+          <div className="bg-[var(--color\/accentsoft,#d1fae5)] content-stretch flex items-center justify-center overflow-clip relative rounded-[var(--radius\/md,12px)] shrink-0 size-[34px]" data-node-id="8:377" data-name="EventIcon">
+            <div className="relative shrink-0 size-[20px]" data-node-id="8:378" data-name="icon/trending-up">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconTrendingUp} />
+            </div>
+          </div>
+          <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-px items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="8:380" data-name="Text">
+            <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#0f172a)]" data-node-id="8:381" style={{ fontVariationSettings: '"wdth" 100' }}>
+              Deal moved to Proposal
+            </p>
+            <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)]" data-node-id="8:382" style={{ fontVariationSettings: '"wdth" 100' }}>
+              Olivia Martin · Acme Studio
+            </p>
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)] text-right whitespace-nowrap" data-node-id="8:383" style={{ fontVariationSettings: '"wdth" 100' }}>
+            12 min ago
+          </p>
+        </div>
+        <div className="bg-[var(--color\/border,#e4ecfc)] h-px relative shrink-0 w-full" data-node-id="8:384" data-name="Divider" />
+        <div className="content-stretch flex gap-[12px] items-center overflow-clip px-[10px] py-[9px] relative rounded-[var(--radius\/md,12px)] shrink-0 w-full" data-node-id="8:385" data-name="Activity/1">
+          <div className="bg-[var(--color\/primarysoft,#dbeafe)] content-stretch flex items-center justify-center overflow-clip relative rounded-[var(--radius\/md,12px)] shrink-0 size-[34px]" data-node-id="8:386" data-name="EventIcon">
+            <div className="relative shrink-0 size-[20px]" data-node-id="8:387" data-name="icon/mail">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconMail} />
+            </div>
+          </div>
+          <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-px items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="8:389" data-name="Text">
+            <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#0f172a)]" data-node-id="8:390" style={{ fontVariationSettings: '"wdth" 100' }}>
+              Email sent to Liam Chen
+            </p>
+            <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)]" data-node-id="8:391" style={{ fontVariationSettings: '"wdth" 100' }}>
+              Northwind Labs · follow-up
+            </p>
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)] text-right whitespace-nowrap" data-node-id="8:392" style={{ fontVariationSettings: '"wdth" 100' }}>
+            1 hr ago
+          </p>
+        </div>
+        <div className="bg-[var(--color\/border,#e4ecfc)] h-px relative shrink-0 w-full" data-node-id="8:393" data-name="Divider" />
+        <div className="content-stretch flex gap-[12px] items-center overflow-clip px-[10px] py-[9px] relative rounded-[var(--radius\/md,12px)] shrink-0 w-full" data-node-id="8:394" data-name="Activity/2">
+          <div className="bg-[var(--color\/muted,#f1f5fd)] content-stretch flex items-center justify-center overflow-clip relative rounded-[var(--radius\/md,12px)] shrink-0 size-[34px]" data-node-id="8:395" data-name="EventIcon">
+            <div className="relative shrink-0 size-[20px]" data-node-id="8:396" data-name="icon/phone">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconPhone} />
+            </div>
+          </div>
+          <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-px items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="8:398" data-name="Text">
+            <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#0f172a)]" data-node-id="8:399" style={{ fontVariationSettings: '"wdth" 100' }}>
+              Call logged with Sofia Reyes
+            </p>
+            <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)]" data-node-id="8:400" style={{ fontVariationSettings: '"wdth" 100' }}>
+              BrightPath Co · 8 min call
+            </p>
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)] text-right whitespace-nowrap" data-node-id="8:401" style={{ fontVariationSettings: '"wdth" 100' }}>
+            3 hrs ago
+          </p>
+        </div>
+      </div>
+      <div className="absolute left-[284px] overflow-clip size-[48px] top-[48px]" data-node-id="15:641" data-name="IconButton/bell">
+        <div className="absolute left-[12px] size-[24px] top-[12px]" data-node-id="15:642" data-name="icon/bell">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconBell} />
+        </div>
+        <div className="absolute left-[24px] size-[16px] top-[7px]" data-node-id="15:644" data-name="UnreadBadge">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUnreadBadge} />
+        </div>
+        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Open_Sans:SemiBold'] font-semibold justify-center leading-[0] left-[32px] size-[16px] text-[8px] text-[color:var(--color\/onprimary,white)] text-center top-[15px]" data-node-id="15:645" style={{ fontVariationSettings: '"wdth" 100' }}>
+          <p className="leading-[normal]">2</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Number/26: Font(family: "Poppins", style: SemiBold, size: 26, weight: 600, lineHeight: 1.2000000476837158, letterSpacing: 0), Shadow/Card: Effect(type: DROP_SHADOW, color: #0F17290F, offset: (0, 4), radius: 12, spread: 0).
+Image assets are stored on a localhost server. Clients can use these images directly in code as a way to view the image assets the same way they would other remote servers. Images and SVGs will be stored as constants, e.g. const image = 'http://localhost:3845/assets/10c13ac1a228a365cb98a0064b1d5afbc84887b2.png' These constants will be used in the code as the source for the image, e.g. <img src={image} /> This is true for both images and SVGs, so you can use the same approach for both types of assets.
+[IMAGE] E:\program\flutter\abc\.workbuddy\figma_out\5-2.png
+Figma recommends using the remote MCP server for workflows between design and code: https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/

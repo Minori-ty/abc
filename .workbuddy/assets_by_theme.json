@@ -1,0 +1,37 @@
+{
+"light": {
+"bell": "http://localhost:3845/assets/9e36a36d42065e591b13023ec18d364cc87db779.svg",
+"unread_badge": "http://localhost:3845/assets/c43451e47e288e95ee1e8d72c8af2e926fa13343.svg",
+"system_icons": "http://localhost:3845/assets/8c85cbf4db1b63f75d235d71c3182ddf5c7f9a00.svg",
+"clock": "http://localhost:3845/assets/932a59f26770a06015b2e21868fd93af46208bc2.svg",
+"chevron_right": "http://localhost:3845/assets/cc3019a7fba787737542636844f5b5fead28f6ee.svg",
+"plus": "http://localhost:3845/assets/11ff150429fe3b8b6aea12664da0cac7dc76b13f.svg",
+"arrow_left": "http://localhost:3845/assets/1f8322519b05b849638118fca3da4b844f8e8240.svg",
+"phone": "http://localhost:3845/assets/f99055c95f0afeb037a0b1296caeb931a4b6341c.svg",
+"mail": "http://localhost:3845/assets/06e4b0ea49d2b3a6e8b754c24389a0a89d4c6000.svg",
+"edit": "http://localhost:3845/assets/ef4816a13764155974d313d72d51b2b633b1ece2.svg",
+"check": "http://localhost:3845/assets/ad32bdcfaab08e68cfd31ba6967eba3c5d0c87c7.svg",
+"state": "http://localhost:3845/assets/1f600e0475270aa308f8b0c3c77f585b0287374f.svg",
+"trending_up": "http://localhost:3845/assets/ad0630053950ee03853ba556b18fc960a83be951.svg",
+"more_vertical": "http://localhost:3845/assets/f1a44b2393168c1dd00fd0ef4a2b5b5206c98726.svg",
+"search": "http://localhost:3845/assets/2841e8dc27a2566c02d343563fe4e1c326b767ec.svg",
+"users": "http://localhost:3845/assets/71d92278092356cff8c9679bd1f6b93ab3671c4c.svg",
+"home": "http://localhost:3845/assets/998fbca12119f90246c7fbae736a1b6a281e3a82.svg",
+"briefcase": "http://localhost:3845/assets/36e6294314039f5c6928c3cf9dacb66b5b5b870b.svg",
+"settings_gear": "http://localhost:3845/assets/591e376f456114d2ea6f0d18a19940d27c30bc6f.svg"
+},
+"dark": {
+"system_icons": "http://localhost:3845/assets/81f8a8538d4bbfa5ee40514a76fdedb026c868b7.svg",
+"more_vertical": "http://localhost:3845/assets/554c176f5d07e39a7e32e021d053c1fab22a2baa.svg",
+"search": "http://localhost:3845/assets/d97f34cfe4eeacb43c3dae772da75c15fa7eefd8.svg",
+"chevron_right": "http://localhost:3845/assets/0d09fedafc220528ddd96bda4f7bf04c7db04281.svg",
+"clock": "http://localhost:3845/assets/e3490f3ea9b7157016e392d81bdaf1190dafb13f.svg",
+"bell": "http://localhost:3845/assets/97b44956ee2e430995c1c0afc894f482ea1c5ed5.svg",
+"unread_badge": "http://localhost:3845/assets/ea8a30f6f1df1607794703f571696cdaf9fa93b5.svg",
+"plus": "http://localhost:3845/assets/1accbe0405467d89f13a40a7cf10f35bd9230712.svg",
+"home": "http://localhost:3845/assets/75e9452b6df624136773aa293fb2f67aec3fba0e.svg",
+"users": "http://localhost:3845/assets/ea3d5b86df4f3141d34ac6d98b2a22da62f512b2.svg",
+"briefcase": "http://localhost:3845/assets/bde99eb5dffe5725ab9cf6b31aebd49e38c1c42d.svg",
+"settings_gear": "http://localhost:3845/assets/a83dc14c3ad3e80b2e723c4396cc8df99b2b8ff3.svg"
+}
+}

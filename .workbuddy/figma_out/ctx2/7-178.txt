@@ -1,0 +1,70 @@
+const imgIconCheck = "http://localhost:3845/assets/ad32bdcfaab08e68cfd31ba6967eba3c5d0c87c7.svg";
+const imgState = "http://localhost:3845/assets/1f600e0475270aa308f8b0c3c77f585b0287374f.svg";
+
+export default function PipelineCard() {
+  return (
+    <div className="bg-[var(--color\/card,white)] border border-[var(--color\/border,#e4ecfc)] border-solid content-stretch flex flex-col gap-[4px] items-start overflow-clip px-[16px] py-[14px] relative rounded-[var(--radius\/lg,16px)] shadow-[0px_4px_12px_0px_rgba(15,23,41,0.06)] size-full" data-node-id="7:178" data-name="PipelineCard">
+      <div className="absolute bg-[var(--color\/border,#e4ecfc)] h-[28px] left-[27px] rounded-[1px] top-[94px] w-[2px]" data-node-id="161:903" data-name="Connector/Upcoming" />
+      <div className="absolute bg-[var(--color\/accent,#059669)] h-[28px] left-[27px] rounded-[1px] top-[46px] w-[2px]" data-node-id="161:902" data-name="Connector/Done" />
+      <div className="content-stretch flex gap-[12px] h-[44px] items-center overflow-clip relative shrink-0 w-[332px]" data-node-id="7:179" data-name="Stage/Qualified">
+        <div className="bg-[var(--color\/accent,#059669)] overflow-clip relative rounded-[var(--radius\/full,999px)] shrink-0 size-[24px]" data-node-id="7:180" data-name="State">
+          <div className="absolute left-[4px] size-[16px] top-[4px]" data-node-id="7:181" data-name="icon/check">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconCheck} />
+          </div>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-px items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="7:183" data-name="Text">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#0f172a)]" data-node-id="7:184" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Qualified
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)]" data-node-id="7:185" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Oct 12
+          </p>
+        </div>
+        <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)] whitespace-nowrap" data-node-id="7:186" style={{ fontVariationSettings: '"wdth" 100' }}>
+          $24,500
+        </p>
+      </div>
+      <div className="content-stretch flex gap-[12px] h-[44px] items-center overflow-clip relative shrink-0 w-[332px]" data-node-id="7:187" data-name="Stage/Proposal">
+        <div className="relative shrink-0 size-[24px]" data-node-id="7:188" data-name="State">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgState} />
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-px items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="7:190" data-name="Text">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#0f172a)]" data-node-id="7:191" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Proposal
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)]" data-node-id="7:192" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Due Oct 30
+          </p>
+        </div>
+        <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/primary,#2563eb)] whitespace-nowrap" data-node-id="7:193" style={{ fontVariationSettings: '"wdth" 100' }}>
+          $24,500
+        </p>
+      </div>
+      <div className="content-stretch flex gap-[12px] h-[44px] items-center overflow-clip relative shrink-0 w-[332px]" data-node-id="7:194" data-name="Stage/Negotiation">
+        <div className="bg-[var(--color\/muted,#f1f5fd)] border border-[var(--color\/border,#e4ecfc)] border-solid relative rounded-[var(--radius\/full,999px)] shrink-0 size-[24px]" data-node-id="7:195" data-name="State" />
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-px items-start justify-center min-w-px overflow-clip relative text-[color:var(--color\/mutedfg,#475569)] whitespace-nowrap" data-node-id="7:196" data-name="Text">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px]" data-node-id="7:197" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Negotiation
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px]" data-node-id="7:198" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Next step
+          </p>
+        </div>
+        <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)] whitespace-nowrap" data-node-id="7:199" style={{ fontVariationSettings: '"wdth" 100' }}>
+          —
+        </p>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Shadow/Card: Effect(type: DROP_SHADOW, color: #0F17290F, offset: (0, 4), radius: 12, spread: 0).
+Image assets are stored on a localhost server. Clients can use these images directly in code as a way to view the image assets the same way they would other remote servers. Images and SVGs will be stored as constants, e.g. const image = 'http://localhost:3845/assets/10c13ac1a228a365cb98a0064b1d5afbc84887b2.png' These constants will be used in the code as the source for the image, e.g. <img src={image} /> This is true for both images and SVGs, so you can use the same approach for both types of assets.
+Figma recommends using the remote MCP server for workflows between design and code: https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/

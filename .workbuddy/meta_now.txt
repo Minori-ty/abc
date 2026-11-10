@@ -1,0 +1,1874 @@
+Currently selected nodes:
+- 64:738: Customers · Dark
+
+
+<document id="0:0" name="Document" x="0" y="0" width="0" height="0">
+  <canvas id="0:1" name="Screens" x="0" y="0" width="0" height="0">
+    <frame id="5:2" name="Dashboard" x="80" y="80" width="412" height="892">
+      <frame id="5:3" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="5:4" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="5:5" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="5:16" name="Greeting" x="24" y="44" width="112" height="17" />
+      <text id="5:17" name="Title" x="24" y="62" width="137" height="30" />
+      <instance id="5:21" name="IconButton/Ghost" x="340" y="48" width="48" height="48" />
+      <instance id="5:26" name="StatCard" x="24" y="124" width="176" height="142" />
+      <instance id="5:35" name="StatCard/Revenue" x="212" y="124" width="176" height="142" />
+      <frame id="5:43" name="FocusCard" x="24" y="286" width="364" height="118">
+        <text id="5:44" name="Eyebrow" x="18" y="16" width="92" height="17" />
+        <text id="5:45" name="Headline" x="18" y="41" width="266" height="22" />
+        <frame id="5:46" name="ViewTasks" x="18" y="71" width="105" height="31">
+          <text id="5:47" name="Label" x="12" y="7" width="61" height="17" />
+          <frame id="5:48" name="icon/chevron-right" x="79" y="7.5" width="16" height="16" />
+        </frame>
+      </frame>
+      <instance id="5:50" name="SectionHeader" x="24" y="412" width="364" height="24" />
+      <frame id="5:77" name="MonthlyTarget" x="24" y="690" width="364" height="62">
+        <frame id="5:78" name="Row" x="17" y="17" width="332" height="10">
+          <text id="5:79" name="Label" x="0" y="-5.5" width="101" height="21" />
+          <text id="5:80" name="Value" x="303" y="-5.5" width="29" height="21" />
+        </frame>
+        <frame id="5:81" name="Track" x="17" y="37" width="332" height="8">
+          <frame id="5:82" name="Bar" x="0" y="0" width="239" height="8" />
+        </frame>
+      </frame>
+      <instance id="5:83" name="BottomNav" x="0" y="820" width="412" height="72" />
+      <frame id="8:375" name="ActivityFeed" x="24" y="448" width="364" height="187">
+        <frame id="8:376" name="Activity/0" x="7" y="7" width="350" height="57">
+          <frame id="8:377" name="EventIcon" x="10" y="11.5" width="34" height="34">
+            <frame id="8:378" name="icon/trending-up" x="7" y="7" width="20" height="20" />
+          </frame>
+          <frame id="8:380" name="Text" x="56" y="9" width="210" height="39">
+            <text id="8:381" name="Headline" x="0" y="0" width="161" height="21" />
+            <text id="8:382" name="Meta" x="0" y="22" width="151" height="17" />
+          </frame>
+          <text id="8:383" name="Time" x="278" y="20" width="62" height="17" />
+        </frame>
+        <rounded-rectangle id="8:384" name="Divider" x="7" y="64" width="350" height="1" />
+        <frame id="8:385" name="Activity/1" x="7" y="65" width="350" height="57">
+          <frame id="8:386" name="EventIcon" x="10" y="11.5" width="34" height="34">
+            <frame id="8:387" name="icon/mail" x="7" y="7" width="20" height="20" />
+          </frame>
+          <frame id="8:389" name="Text" x="56" y="9" width="226" height="39">
+            <text id="8:390" name="Headline" x="0" y="0" width="163" height="21" />
+            <text id="8:391" name="Meta" x="0" y="22" width="151" height="17" />
+          </frame>
+          <text id="8:392" name="Time" x="294" y="20" width="46" height="17" />
+        </frame>
+        <rounded-rectangle id="8:393" name="Divider" x="7" y="122" width="350" height="1" />
+        <frame id="8:394" name="Activity/2" x="7" y="123" width="350" height="57">
+          <frame id="8:395" name="EventIcon" x="10" y="11.5" width="34" height="34">
+            <frame id="8:396" name="icon/phone" x="7" y="7" width="20" height="20" />
+          </frame>
+          <frame id="8:398" name="Text" x="56" y="9" width="220" height="39">
+            <text id="8:399" name="Headline" x="0" y="0" width="187" height="21" />
+            <text id="8:400" name="Meta" x="0" y="22" width="140" height="17" />
+          </frame>
+          <text id="8:401" name="Time" x="288" y="20" width="52" height="17" />
+        </frame>
+      </frame>
+      <frame id="15:641" name="IconButton/bell" x="284" y="48" width="48" height="48">
+        <frame id="15:642" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="15:644" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="15:645" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+    </frame>
+    <frame id="5:100" name="Customers" x="552" y="80" width="412" height="892">
+      <frame id="5:101" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="5:102" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="5:103" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="5:114" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="5:115" name="Subtitle" x="24" y="76" width="173" height="17" />
+      <instance id="5:116" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="5:121" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="5:125" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="5:126" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="5:127" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="5:128" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="5:129" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="5:130" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="5:131" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="5:132" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="5:133" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <instance id="5:134" name="SectionHeader" x="24" y="232" width="364" height="24" />
+      <instance id="5:137" name="CustomerRow" x="24" y="268" width="364" height="64" />
+      <instance id="5:145" name="CustomerRow" x="24" y="342" width="364" height="64" />
+      <instance id="5:153" name="CustomerRow" x="24" y="416" width="364" height="64" />
+      <instance id="5:161" name="CustomerRow" x="24" y="490" width="364" height="64" />
+      <instance id="5:169" name="CustomerRow" x="24" y="564" width="364" height="64" />
+      <frame id="5:177" name="FollowUpCard" x="24" y="900" width="364" height="70">
+        <frame id="5:178" name="IconTile" x="17" y="15" width="40" height="40">
+          <frame id="5:179" name="icon/clock" x="8" y="8" width="24" height="24" />
+        </frame>
+        <frame id="5:181" name="Text" x="69" y="15" width="246" height="40">
+          <text id="5:182" name="Title" x="0" y="0" width="188" height="21" />
+          <text id="5:183" name="Subtitle" x="0" y="23" width="158" height="17" />
+        </frame>
+        <frame id="5:184" name="icon/chevron-right" x="327" y="25" width="20" height="20" />
+      </frame>
+      <instance id="123:823" name="CustomerRow" x="24" y="786" width="364" height="64" />
+      <instance id="123:815" name="CustomerRow" x="24" y="712" width="364" height="64" />
+      <instance id="123:807" name="CustomerRow" x="24" y="638" width="364" height="64" />
+      <frame id="15:651" name="IconButton/bell" x="284" y="44" width="48" height="48">
+        <frame id="15:652" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="15:654" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="15:655" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+      <frame id="5:186" name="IconButton/plus" x="332" y="740" width="56" height="56">
+        <frame id="5:187" name="icon/plus" x="16" y="16" width="24" height="24" />
+      </frame>
+      <instance id="5:189" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+    </frame>
+    <text id="5:206" name="ScreenLabel" x="80" y="44" width="64" height="17" />
+    <text id="5:207" name="ScreenLabel" x="552" y="44" width="63" height="17" />
+    <frame id="7:120" name="Customer detail" x="1024" y="80" width="412" height="892">
+      <frame id="7:121" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="7:122" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="7:123" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <frame id="7:134" name="IconButton/arrow-left" x="12" y="30" width="48" height="48">
+        <frame id="7:135" name="icon/arrow-left" x="12" y="12" width="24" height="24" />
+      </frame>
+      <text id="7:137" name="Title" x="68" y="43" width="82" height="22" />
+      <instance id="7:138" name="IconButton/Ghost" x="340" y="32" width="48" height="48" />
+      <frame id="7:143" name="Avatar/72" x="170" y="96" width="72" height="72">
+        <text id="7:144" name="Initials" x="19" y="23" width="34" height="26" />
+      </frame>
+      <text id="7:145" name="Name" x="106" y="180" width="155" height="30" />
+      <text id="7:146" name="Company" x="106" y="212" width="190" height="17" />
+      <instance id="7:147" name="StatusChip/Active" x="175" y="238" width="62" height="25" />
+      <frame id="7:150" name="QuickActions" x="24" y="286" width="364" height="64">
+        <frame id="7:151" name="Action/Call" x="0" y="0" width="116" height="64">
+          <frame id="7:152" name="icon/phone" x="46" y="8.5" width="24" height="24" />
+          <text id="7:154" name="Label" x="47" y="38.5" width="22" height="17" />
+        </frame>
+        <frame id="7:155" name="Action/Email" x="124" y="0" width="116" height="64">
+          <frame id="7:156" name="icon/mail" x="46" y="8.5" width="24" height="24" />
+          <text id="7:158" name="Label" x="42" y="38.5" width="32" height="17" />
+        </frame>
+        <frame id="7:159" name="Action/Note" x="248" y="0" width="116" height="64">
+          <frame id="7:160" name="icon/edit" x="46" y="8.5" width="24" height="24" />
+          <text id="7:162" name="Label" x="43.5" y="38.5" width="29" height="17" />
+        </frame>
+      </frame>
+      <frame id="7:163" name="CustomerStats" x="24" y="366" width="364" height="76">
+        <frame id="7:164" name="Stat/Open deals" x="13" y="18" width="112" height="40">
+          <text id="7:165" name="Value" x="51.5" y="0" width="9" height="21" />
+          <text id="7:166" name="Label" x="24" y="23" width="64" height="17" />
+        </frame>
+        <rounded-rectangle id="7:167" name="Divider" x="125" y="20" width="1" height="36" />
+        <frame id="7:168" name="Stat/Pipeline" x="126" y="18" width="112" height="40">
+          <text id="7:169" name="Value" x="33.5" y="0" width="45" height="21" />
+          <text id="7:170" name="Label" x="33.5" y="23" width="45" height="17" />
+        </frame>
+        <rounded-rectangle id="7:171" name="Divider" x="238" y="20" width="1" height="36" />
+        <frame id="7:172" name="Stat/Last contact" x="239" y="18" width="112" height="40">
+          <text id="7:173" name="Value" x="34.5" y="0" width="43" height="21" />
+          <text id="7:174" name="Label" x="22" y="23" width="68" height="17" />
+        </frame>
+      </frame>
+      <instance id="7:175" name="SectionHeader" x="24" y="468" width="364" height="24" />
+      <frame id="7:178" name="PipelineCard" x="24" y="500" width="364" height="170">
+        <rounded-rectangle id="161:903" name="Connector/Upcoming" x="28" y="95" width="2" height="28" />
+        <rounded-rectangle id="161:902" name="Connector/Done" x="28" y="47" width="2" height="28" />
+        <frame id="7:179" name="Stage/Qualified" x="17" y="15" width="332" height="44">
+          <frame id="7:180" name="State" x="0" y="10" width="24" height="24">
+            <frame id="7:181" name="icon/check" x="4" y="4" width="16" height="16" />
+          </frame>
+          <frame id="7:183" name="Text" x="36" y="2.5" width="239" height="39">
+            <text id="7:184" name="Stage" x="0" y="0" width="62" height="21" />
+            <text id="7:185" name="Detail" x="0" y="22" width="37" height="17" />
+          </frame>
+          <text id="7:186" name="Value" x="287" y="13.5" width="45" height="17" />
+        </frame>
+        <frame id="7:187" name="Stage/Proposal" x="17" y="63" width="332" height="44">
+          <frame id="7:188" name="State" x="0" y="10" width="24" height="24" />
+          <frame id="7:190" name="Text" x="36" y="2.5" width="239" height="39">
+            <text id="7:191" name="Stage" x="0" y="0" width="60" height="21" />
+            <text id="7:192" name="Detail" x="0" y="22" width="63" height="17" />
+          </frame>
+          <text id="7:193" name="Value" x="287" y="13.5" width="45" height="17" />
+        </frame>
+        <frame id="7:194" name="Stage/Negotiation" x="17" y="111" width="332" height="44">
+          <frame id="7:195" name="State" x="0" y="10" width="24" height="24" />
+          <frame id="7:196" name="Text" x="36" y="2.5" width="272" height="39">
+            <text id="7:197" name="Stage" x="0" y="0" width="80" height="21" />
+            <text id="7:198" name="Detail" x="0" y="22" width="54" height="17" />
+          </frame>
+          <text id="7:199" name="Value" x="320" y="13.5" width="12" height="17" />
+        </frame>
+      </frame>
+      <instance id="7:200" name="SectionHeader" x="24" y="690" width="364" height="24" />
+      <frame id="7:203" name="NoteCard" x="24" y="722" width="364" height="68">
+        <text id="7:204" name="Note" x="15" y="13" width="289" height="21" />
+        <text id="7:205" name="Meta" x="15" y="38" width="139" height="17" />
+      </frame>
+      <frame id="7:206" name="BottomAction" x="0" y="812" width="412" height="80">
+        <instance id="7:207" name="Button/Primary" x="25" y="16" width="362" height="48" />
+      </frame>
+    </frame>
+    <frame id="7:307" name="Deals" x="1496" y="80" width="412" height="892">
+      <frame id="7:308" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="7:309" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="7:310" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="7:321" name="Title" x="24" y="44" width="69" height="30" />
+      <text id="7:322" name="Subtitle" x="24" y="76" width="138" height="17" />
+      <instance id="7:323" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <frame id="7:328" name="DealsSummary" x="24" y="116" width="364" height="92">
+        <frame id="7:329" name="Metric/Open pipeline" x="18" y="11.5" width="164" height="69">
+          <text id="7:330" name="Label" x="0" y="0" width="79" height="17" />
+          <text id="7:331" name="Value" x="0" y="19" width="78" height="31" />
+          <text id="7:332" name="Sub" x="0" y="52" width="98" height="17" />
+        </frame>
+        <frame id="7:333" name="Metric/Won this month" x="182" y="11.5" width="164" height="69">
+          <text id="7:334" name="Label" x="0" y="0" width="90" height="17" />
+          <text id="7:335" name="Value" x="0" y="19" width="67" height="31" />
+          <text id="7:336" name="Sub" x="0" y="52" width="79" height="17" />
+        </frame>
+      </frame>
+      <frame id="7:337" name="DealFilters" x="24" y="228" width="330" height="34">
+        <frame id="7:338" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="7:339" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="7:340" name="FilterChip/Qualified" x="51" y="0" width="83" height="34">
+          <text id="7:341" name="Label" x="15" y="9" width="53" height="16" />
+        </frame>
+        <frame id="7:342" name="FilterChip/Proposal" x="142" y="0" width="81" height="34">
+          <text id="7:343" name="Label" x="15" y="9" width="51" height="16" />
+        </frame>
+        <frame id="7:344" name="FilterChip/Negotiation" x="231" y="0" width="99" height="34">
+          <text id="7:345" name="Label" x="15" y="9" width="69" height="16" />
+        </frame>
+      </frame>
+      <frame id="7:346" name="DealCard/Acme Studio" x="24" y="318" width="364" height="103">
+        <frame id="7:347" name="Row1" x="17" y="15" width="332" height="40">
+          <frame id="15:661" name="TitleCol" x="0" y="0" width="280" height="40">
+            <text id="7:348" name="Company" x="0" y="0" width="118" height="21" />
+            <text id="15:662" name="CompanyMeta" x="0" y="23" width="71" height="17" />
+          </frame>
+          <text id="7:349" name="Amount" x="280" y="0" width="52" height="21" />
+        </frame>
+        <frame id="7:350" name="Row2" x="17" y="63" width="332" height="25">
+          <frame id="7:351" name="Chip/Proposal" x="0" y="0" width="80" height="25">
+            <ellipse id="7:352" name="Dot" x="9" y="9.5" width="6" height="6" />
+            <text id="7:353" name="Label" x="20" y="4" width="51" height="17" />
+          </frame>
+          <text id="7:354" name="Close" x="88" y="4" width="70" height="17" />
+        </frame>
+      </frame>
+      <frame id="7:357" name="DealCard/Northwind Labs" x="24" y="435" width="364" height="103">
+        <frame id="7:358" name="Row1" x="17" y="15" width="332" height="40">
+          <frame id="15:663" name="TitleCol" x="0" y="0" width="280" height="40">
+            <text id="7:359" name="Company" x="0" y="0" width="154" height="21" />
+            <text id="15:664" name="CompanyMeta" x="0" y="23" width="89" height="17" />
+          </frame>
+          <text id="7:360" name="Amount" x="280" y="0" width="52" height="21" />
+        </frame>
+        <frame id="7:361" name="Row2" x="17" y="63" width="332" height="25">
+          <frame id="7:362" name="Chip/Negotiation" x="0" y="0" width="98" height="25">
+            <ellipse id="7:363" name="Dot" x="9" y="9.5" width="6" height="6" />
+            <text id="7:364" name="Label" x="20" y="4" width="69" height="17" />
+          </frame>
+          <text id="7:365" name="Close" x="106" y="4" width="73" height="17" />
+        </frame>
+      </frame>
+      <frame id="7:368" name="DealCard/BrightPath Co" x="24" y="552" width="364" height="103">
+        <frame id="7:369" name="Row1" x="17" y="15" width="332" height="40">
+          <frame id="15:665" name="TitleCol" x="0" y="0" width="288" height="40">
+            <text id="7:370" name="Company" x="0" y="0" width="141" height="21" />
+            <text id="15:666" name="CompanyMeta" x="0" y="23" width="78" height="17" />
+          </frame>
+          <text id="7:371" name="Amount" x="288" y="0" width="44" height="21" />
+        </frame>
+        <frame id="7:372" name="Row2" x="17" y="63" width="332" height="25">
+          <frame id="7:373" name="Chip/Qualified" x="0" y="0" width="82" height="25">
+            <ellipse id="7:374" name="Dot" x="9" y="9.5" width="6" height="6" />
+            <text id="7:375" name="Label" x="20" y="4" width="53" height="17" />
+          </frame>
+          <text id="7:376" name="Close" x="90" y="4" width="73" height="17" />
+        </frame>
+      </frame>
+      <frame id="7:379" name="RecentlyWon" x="24" y="830" width="364" height="68">
+        <frame id="7:380" name="Icon" x="16" y="14" width="40" height="40">
+          <frame id="7:381" name="icon/check" x="8" y="8" width="24" height="24" />
+        </frame>
+        <frame id="7:383" name="Text" x="68" y="14" width="248" height="40">
+          <text id="7:384" name="Title" x="0" y="0" width="154" height="21" />
+          <text id="7:385" name="Subtitle" x="0" y="23" width="192" height="17" />
+        </frame>
+        <frame id="7:386" name="icon/chevron-right" x="328" y="24" width="20" height="20" />
+      </frame>
+      <frame id="123:855" name="DealCard/Vertex Retail" x="24" y="669" width="364" height="103">
+        <frame id="123:856" name="Row1" x="17" y="15" width="332" height="40">
+          <frame id="123:857" name="TitleCol" x="0" y="0" width="280" height="40">
+            <text id="123:858" name="Company" x="0" y="0" width="117" height="21" />
+            <text id="123:859" name="CompanyMeta" x="0" y="23" width="71" height="17" />
+          </frame>
+          <text id="123:860" name="Amount" x="280" y="0" width="52" height="21" />
+        </frame>
+        <frame id="123:861" name="Row2" x="17" y="63" width="332" height="25">
+          <frame id="123:862" name="Chip/Proposal" x="0" y="0" width="80" height="25">
+            <ellipse id="123:863" name="Dot" x="9" y="9.5" width="6" height="6" />
+            <text id="123:864" name="Label" x="20" y="4" width="51" height="17" />
+          </frame>
+          <text id="123:865" name="Close" x="88" y="4" width="73" height="17" />
+        </frame>
+      </frame>
+      <text id="123:866" name="SectionTitle/Open deals" x="24" y="282" width="93" height="22" />
+      <text id="123:867" name="SectionTitle/Recently won" x="24" y="794" width="109" height="22" />
+      <instance id="7:391" name="BottomNav/Deals" x="0" y="820" width="412" height="72" />
+      <frame id="7:388" name="IconButton/plus" x="332" y="728" width="56" height="56">
+        <frame id="7:389" name="icon/plus" x="16" y="16" width="24" height="24" />
+      </frame>
+      <frame id="15:656" name="IconButton/bell" x="284" y="44" width="48" height="48">
+        <frame id="15:657" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="15:659" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="15:660" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+    </frame>
+    <text id="7:408" name="ScreenLabel" x="1024" y="44" width="93" height="17" />
+    <text id="7:409" name="ScreenLabel" x="1496" y="44" width="32" height="17" />
+    <text id="7:410" name="ScreenLabel" x="80" y="1036" width="170" height="17" />
+    <frame id="7:422" name="Customer detail · More menu" x="80" y="1072" width="412" height="892">
+      <frame id="7:423" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="7:424" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="7:425" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <frame id="7:436" name="IconButton/arrow-left" x="12" y="30" width="48" height="48">
+        <frame id="7:437" name="icon/arrow-left" x="12" y="12" width="24" height="24" />
+      </frame>
+      <text id="7:439" name="Title" x="68" y="43" width="82" height="22" />
+      <instance id="7:440" name="IconButton/Ghost" x="340" y="32" width="48" height="48" />
+      <frame id="7:441" name="Avatar/72" x="170" y="96" width="72" height="72">
+        <text id="7:442" name="Initials" x="19" y="23" width="34" height="26" />
+      </frame>
+      <text id="7:443" name="Name" x="106" y="180" width="155" height="30" />
+      <text id="7:444" name="Company" x="106" y="212" width="190" height="17" />
+      <instance id="7:445" name="StatusChip/Active" x="175" y="238" width="62" height="25" />
+      <frame id="7:446" name="QuickActions" x="24" y="286" width="364" height="64">
+        <frame id="7:447" name="Action/Call" x="0" y="0" width="116" height="64">
+          <frame id="7:448" name="icon/phone" x="46" y="8.5" width="24" height="24" />
+          <text id="7:450" name="Label" x="47" y="38.5" width="22" height="17" />
+        </frame>
+        <frame id="7:451" name="Action/Email" x="124" y="0" width="116" height="64">
+          <frame id="7:452" name="icon/mail" x="46" y="8.5" width="24" height="24" />
+          <text id="7:454" name="Label" x="42" y="38.5" width="32" height="17" />
+        </frame>
+        <frame id="7:455" name="Action/Note" x="248" y="0" width="116" height="64">
+          <frame id="7:456" name="icon/edit" x="46" y="8.5" width="24" height="24" />
+          <text id="7:458" name="Label" x="43.5" y="38.5" width="29" height="17" />
+        </frame>
+      </frame>
+      <frame id="7:459" name="CustomerStats" x="24" y="366" width="364" height="76">
+        <frame id="7:460" name="Stat/Open deals" x="13" y="18" width="112" height="40">
+          <text id="7:461" name="Value" x="51.5" y="0" width="9" height="21" />
+          <text id="7:462" name="Label" x="24" y="23" width="64" height="17" />
+        </frame>
+        <rounded-rectangle id="7:463" name="Divider" x="125" y="20" width="1" height="36" />
+        <frame id="7:464" name="Stat/Pipeline" x="126" y="18" width="112" height="40">
+          <text id="7:465" name="Value" x="33.5" y="0" width="45" height="21" />
+          <text id="7:466" name="Label" x="33.5" y="23" width="45" height="17" />
+        </frame>
+        <rounded-rectangle id="7:467" name="Divider" x="238" y="20" width="1" height="36" />
+        <frame id="7:468" name="Stat/Last contact" x="239" y="18" width="112" height="40">
+          <text id="7:469" name="Value" x="34.5" y="0" width="43" height="21" />
+          <text id="7:470" name="Label" x="22" y="23" width="68" height="17" />
+        </frame>
+      </frame>
+      <instance id="7:471" name="SectionHeader" x="24" y="468" width="364" height="24" />
+      <frame id="7:472" name="PipelineCard" x="24" y="500" width="364" height="170">
+        <frame id="7:473" name="Stage/Qualified" x="17" y="15" width="332" height="44">
+          <frame id="7:474" name="State" x="0" y="10" width="24" height="24">
+            <frame id="7:475" name="icon/check" x="4" y="4" width="16" height="16" />
+          </frame>
+          <frame id="7:477" name="Text" x="36" y="2.5" width="239" height="39">
+            <text id="7:478" name="Stage" x="0" y="0" width="62" height="21" />
+            <text id="7:479" name="Detail" x="0" y="22" width="37" height="17" />
+          </frame>
+          <text id="7:480" name="Value" x="287" y="13.5" width="45" height="17" />
+        </frame>
+        <frame id="7:481" name="Stage/Proposal" x="17" y="63" width="332" height="44">
+          <frame id="7:482" name="State" x="0" y="10" width="24" height="24" />
+          <frame id="7:484" name="Text" x="36" y="2.5" width="239" height="39">
+            <text id="7:485" name="Stage" x="0" y="0" width="60" height="21" />
+            <text id="7:486" name="Detail" x="0" y="22" width="63" height="17" />
+          </frame>
+          <text id="7:487" name="Value" x="287" y="13.5" width="45" height="17" />
+        </frame>
+        <frame id="7:488" name="Stage/Negotiation" x="17" y="111" width="332" height="44">
+          <frame id="7:489" name="State" x="0" y="10" width="24" height="24" />
+          <frame id="7:490" name="Text" x="36" y="2.5" width="272" height="39">
+            <text id="7:491" name="Stage" x="0" y="0" width="80" height="21" />
+            <text id="7:492" name="Detail" x="0" y="22" width="54" height="17" />
+          </frame>
+          <text id="7:493" name="Value" x="320" y="13.5" width="12" height="17" />
+        </frame>
+      </frame>
+      <instance id="7:494" name="SectionHeader" x="24" y="690" width="364" height="24" />
+      <frame id="7:495" name="NoteCard" x="24" y="722" width="364" height="68">
+        <text id="7:496" name="Note" x="15" y="13" width="289" height="21" />
+        <text id="7:497" name="Meta" x="15" y="38" width="139" height="17" />
+      </frame>
+      <frame id="7:498" name="BottomAction" x="0" y="812" width="412" height="80">
+        <instance id="7:499" name="Button/Primary" x="25" y="16" width="362" height="48" />
+      </frame>
+      <rounded-rectangle id="7:500" name="Scrim" x="0" y="0" width="412" height="892" />
+      <instance id="7:501" name="MoreMenu" x="168" y="84" width="220" height="225" />
+    </frame>
+    <frame id="7:531" name="Add customer · Dialog" x="552" y="1072" width="412" height="892">
+      <frame id="7:532" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="7:533" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="7:534" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="7:545" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="7:546" name="Subtitle" x="24" y="76" width="173" height="17" />
+      <instance id="7:547" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="7:548" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="7:549" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="7:550" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="7:551" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="7:552" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="7:553" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="7:554" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="7:555" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="7:556" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="7:557" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <instance id="7:558" name="SectionHeader" x="24" y="232" width="364" height="24" />
+      <instance id="7:559" name="CustomerRow" x="24" y="268" width="364" height="64" />
+      <instance id="7:560" name="CustomerRow" x="24" y="342" width="364" height="64" />
+      <instance id="7:561" name="CustomerRow" x="24" y="416" width="364" height="64" />
+      <instance id="7:562" name="CustomerRow" x="24" y="490" width="364" height="64" />
+      <instance id="7:563" name="CustomerRow" x="24" y="564" width="364" height="64" />
+      <frame id="7:564" name="FollowUpCard" x="24" y="650" width="364" height="70">
+        <frame id="7:565" name="IconTile" x="17" y="15" width="40" height="40">
+          <frame id="7:566" name="icon/clock" x="8" y="8" width="24" height="24" />
+        </frame>
+        <frame id="7:568" name="Text" x="69" y="15" width="246" height="40">
+          <text id="7:569" name="Title" x="0" y="0" width="188" height="21" />
+          <text id="7:570" name="Subtitle" x="0" y="23" width="158" height="17" />
+        </frame>
+        <frame id="7:571" name="icon/chevron-right" x="327" y="25" width="20" height="20" />
+      </frame>
+      <frame id="7:573" name="IconButton/plus" x="332" y="740" width="56" height="56">
+        <frame id="7:574" name="icon/plus" x="16" y="16" width="24" height="24" />
+      </frame>
+      <instance id="7:576" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+      <rounded-rectangle id="7:577" name="Scrim" x="0" y="0" width="412" height="892" />
+      <frame id="7:578" name="AddCustomerDialog" x="24" y="242.5" width="364" height="419">
+        <frame id="7:579" name="Header" x="24" y="22" width="316" height="44">
+          <text id="7:580" name="Title" x="0" y="9" width="145" height="26" />
+          <frame id="7:581" name="Close" x="272" y="0" width="44" height="44">
+            <frame id="7:582" name="icon/x" x="12" y="12" width="20" height="20" />
+          </frame>
+        </frame>
+        <instance id="7:584" name="TextField" x="24" y="82" width="316" height="73" />
+        <instance id="7:588" name="TextField" x="24" y="171" width="316" height="73" />
+        <instance id="7:592" name="TextField" x="24" y="260" width="316" height="73" />
+        <frame id="7:596" name="Actions" x="24" y="349" width="316" height="48">
+          <instance id="7:597" name="Button/Secondary" x="0" y="0" width="153" height="48" />
+          <instance id="7:599" name="Button/Primary (disabled)" x="165" y="0" width="151" height="48" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="7:601" name="Delete customer · Confirm" x="1024" y="1072" width="412" height="892">
+      <frame id="147:900" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="147:901" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="147:902" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="147:913" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="147:914" name="Subtitle" x="24" y="76" width="173" height="17" />
+      <instance id="147:915" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="147:920" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="147:924" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="147:925" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="147:926" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="147:927" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="147:928" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="147:929" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="147:930" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="147:931" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="147:932" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <instance id="147:933" name="SectionHeader" x="24" y="232" width="364" height="24" />
+      <instance id="147:936" name="CustomerRow" x="24" y="268" width="364" height="64" />
+      <instance id="147:944" name="CustomerRow" x="24" y="342" width="364" height="64" />
+      <instance id="147:952" name="CustomerRow" x="24" y="416" width="364" height="64" />
+      <instance id="147:960" name="CustomerRow" x="24" y="490" width="364" height="64" />
+      <instance id="147:968" name="CustomerRow" x="24" y="564" width="364" height="64" />
+      <frame id="147:976" name="FollowUpCard" x="24" y="900" width="364" height="70">
+        <frame id="147:977" name="IconTile" x="17" y="15" width="40" height="40">
+          <frame id="147:978" name="icon/clock" x="8" y="8" width="24" height="24" />
+        </frame>
+        <frame id="147:980" name="Text" x="69" y="15" width="246" height="40">
+          <text id="147:981" name="Title" x="0" y="0" width="188" height="21" />
+          <text id="147:982" name="Subtitle" x="0" y="23" width="158" height="17" />
+        </frame>
+        <frame id="147:983" name="icon/chevron-right" x="327" y="25" width="20" height="20" />
+      </frame>
+      <instance id="147:985" name="CustomerRow" x="24" y="786" width="364" height="64" />
+      <instance id="147:993" name="CustomerRow" x="24" y="712" width="364" height="64" />
+      <instance id="147:1001" name="CustomerRow" x="24" y="638" width="364" height="64" />
+      <frame id="147:1009" name="IconButton/bell" x="284" y="44" width="48" height="48">
+        <frame id="147:1010" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="147:1012" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="147:1013" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+      <frame id="147:1014" name="IconButton/plus" x="332" y="740" width="56" height="56">
+        <frame id="147:1015" name="icon/plus" x="16" y="16" width="24" height="24" />
+      </frame>
+      <instance id="147:1017" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+      <rounded-rectangle id="147:1037" name="Scrim" x="0" y="0" width="412" height="892" />
+      <frame id="147:1038" name="DeleteDialog" x="24" y="345" width="364" height="202">
+        <frame id="147:1039" name="IconTile" x="24" y="24" width="32" height="32">
+          <frame id="147:894" name="icon/trash" x="8" y="8" width="16" height="16" />
+        </frame>
+        <text id="147:1040" name="Title" x="68" y="27" width="179" height="26" />
+        <text id="147:1041" name="Message" x="24" y="68" width="316" height="42" />
+        <instance id="147:896" name="Button/Secondary" x="24" y="130" width="152" height="48" />
+        <instance id="147:898" name="Button/Danger" x="188" y="130" width="152" height="48" />
+      </frame>
+    </frame>
+    <frame id="7:659" name="Customers · Filter sheet" x="1496" y="1072" width="412" height="892">
+      <frame id="7:660" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="7:661" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="7:662" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="7:673" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="7:674" name="Subtitle" x="24" y="76" width="173" height="17" />
+      <instance id="7:675" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="7:676" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="7:677" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="7:678" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="7:679" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="7:680" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="7:681" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="7:682" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="7:683" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="7:684" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="7:685" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <instance id="7:686" name="SectionHeader" x="24" y="232" width="364" height="24" />
+      <instance id="7:687" name="CustomerRow" x="24" y="268" width="364" height="64" />
+      <instance id="7:688" name="CustomerRow" x="24" y="342" width="364" height="64" />
+      <instance id="7:689" name="CustomerRow" x="24" y="416" width="364" height="64" />
+      <instance id="7:690" name="CustomerRow" x="24" y="490" width="364" height="64" />
+      <instance id="7:691" name="CustomerRow" x="24" y="564" width="364" height="64" />
+      <frame id="7:692" name="FollowUpCard" x="24" y="650" width="364" height="70">
+        <frame id="7:693" name="IconTile" x="17" y="15" width="40" height="40">
+          <frame id="7:694" name="icon/clock" x="8" y="8" width="24" height="24" />
+        </frame>
+        <frame id="7:696" name="Text" x="69" y="15" width="246" height="40">
+          <text id="7:697" name="Title" x="0" y="0" width="188" height="21" />
+          <text id="7:698" name="Subtitle" x="0" y="23" width="158" height="17" />
+        </frame>
+        <frame id="7:699" name="icon/chevron-right" x="327" y="25" width="20" height="20" />
+      </frame>
+      <frame id="7:701" name="IconButton/plus" x="332" y="740" width="56" height="56">
+        <frame id="7:702" name="icon/plus" x="16" y="16" width="24" height="24" />
+      </frame>
+      <instance id="7:704" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+      <rounded-rectangle id="7:705" name="Scrim" x="0" y="0" width="412" height="892" />
+      <frame id="7:706" name="FilterSheet" x="0" y="507" width="412" height="397">
+        <frame id="7:708" name="GrabWrap" x="24" y="12" width="364" height="4">
+          <frame id="7:707" name="Grabber" x="164" y="0" width="36" height="4" />
+        </frame>
+        <frame id="7:709" name="Header" x="24" y="30" width="364" height="44">
+          <text id="7:710" name="Title" x="0" y="9" width="164" height="26" />
+          <frame id="7:711" name="Close" x="320" y="0" width="44" height="44">
+            <frame id="7:712" name="icon/x" x="12" y="12" width="20" height="20" />
+          </frame>
+        </frame>
+        <text id="7:714" name="Section" x="24" y="88" width="44" height="17" />
+        <frame id="7:715" name="Chips" x="24" y="119" width="206" height="34">
+          <frame id="7:716" name="Chip/All" x="0" y="0" width="44" height="34">
+            <text id="7:717" name="Label" x="14" y="8" width="16" height="18" />
+          </frame>
+          <frame id="7:718" name="Chip/Active" x="52" y="0" width="67" height="34">
+            <text id="7:719" name="Label" x="14" y="8" width="39" height="18" />
+          </frame>
+          <frame id="7:720" name="Chip/Pending" x="127" y="0" width="79" height="34">
+            <text id="7:721" name="Label" x="14" y="8" width="51" height="18" />
+          </frame>
+        </frame>
+        <text id="7:722" name="Section" x="24" y="167" width="45" height="17" />
+        <frame id="7:723" name="Chips" x="24" y="198" width="139" height="34">
+          <frame id="7:724" name="Chip/Me" x="0" y="0" width="48" height="34">
+            <text id="7:725" name="Label" x="14" y="8" width="20" height="18" />
+          </frame>
+          <frame id="7:726" name="Chip/My team" x="56" y="0" width="83" height="34">
+            <text id="7:727" name="Label" x="14" y="8" width="55" height="18" />
+          </frame>
+        </frame>
+        <text id="7:728" name="Section" x="24" y="246" width="49" height="17" />
+        <frame id="7:729" name="Chips" x="24" y="277" width="278" height="34">
+          <frame id="7:730" name="Chip/Newest" x="0" y="0" width="76" height="34">
+            <text id="7:731" name="Label" x="14" y="8" width="48" height="18" />
+          </frame>
+          <frame id="7:732" name="Chip/Most deals" x="84" y="0" width="96" height="34">
+            <text id="7:733" name="Label" x="14" y="8" width="68" height="18" />
+          </frame>
+          <frame id="7:734" name="Chip/Name A-Z" x="188" y="0" width="90" height="34">
+            <text id="7:735" name="Label" x="14" y="8" width="62" height="18" />
+          </frame>
+        </frame>
+        <frame id="7:736" name="Actions" x="24" y="325" width="364" height="48">
+          <instance id="7:737" name="Button/Secondary" x="0" y="0" width="177" height="48" />
+          <instance id="7:739" name="Button/Primary" x="189" y="0" width="175" height="48" />
+        </frame>
+      </frame>
+    </frame>
+    <text id="7:741" name="ScreenLabel" x="552" y="1036" width="128" height="17" />
+    <text id="7:742" name="ScreenLabel" x="1024" y="1036" width="153" height="17" />
+    <text id="7:743" name="ScreenLabel" x="1496" y="1036" width="138" height="17" />
+    <frame id="9:354" name="Customers · No results" x="80" y="2064" width="412" height="892">
+      <frame id="9:355" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="9:356" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="9:357" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="9:368" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="9:369" name="Subtitle" x="24" y="76" width="173" height="17" />
+      <instance id="9:370" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="9:371" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="9:372" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="9:373" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="9:374" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="9:375" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="9:376" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="9:377" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="9:378" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="9:379" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="9:380" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <frame id="9:396" name="IconButton/plus" x="332" y="740" width="56" height="56">
+        <frame id="9:397" name="icon/plus" x="16" y="16" width="24" height="24" />
+      </frame>
+      <instance id="9:399" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+      <frame id="9:460" name="icon/x" x="355" y="129" width="20" height="20" />
+      <text id="9:462" name="ResultCount" x="24" y="240" width="97" height="17" hidden="true" />
+      <frame id="9:463" name="EmptyIcon" x="170" y="318" width="72" height="72">
+        <frame id="9:464" name="icon/search" x="20" y="20" width="32" height="32" />
+      </frame>
+      <text id="9:466" name="Centered" x="24" y="414" width="364" height="26" />
+      <text id="9:467" name="Centered" x="56" y="448" width="300" height="21" />
+      <instance id="15:685" name="Button/Primary" x="143" y="516" width="126" height="48" />
+    </frame>
+    <frame id="9:470" name="Customers · Empty state" x="1496" y="2064" width="412" height="892">
+      <frame id="9:471" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="9:472" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="9:473" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="9:484" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="9:485" name="Subtitle" x="24" y="76" width="142" height="17" />
+      <instance id="9:486" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="9:487" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="9:488" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="9:489" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="9:490" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="9:491" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="9:492" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="9:493" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="9:494" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="9:495" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="9:496" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <instance id="9:515" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+      <frame id="9:576" name="EmptyIcon" x="166" y="306" width="80" height="80">
+        <frame id="9:577" name="icon/users" x="24" y="24" width="32" height="32" />
+      </frame>
+      <text id="9:579" name="Centered" x="24" y="414" width="364" height="26" />
+      <text id="9:580" name="Centered" x="56" y="448" width="300" height="42" />
+      <instance id="9:581" name="Button/Primary" x="138.5" y="516" width="135" height="48" />
+    </frame>
+    <frame id="9:583" name="Customers · Delete success" x="1024" y="2064" width="412" height="892">
+      <frame id="9:584" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="9:585" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="9:586" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="9:597" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="9:598" name="Subtitle" x="24" y="76" width="173" height="17" />
+      <instance id="9:599" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="9:600" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="9:601" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="9:602" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="9:603" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="9:604" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="9:605" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="9:606" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="9:607" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="9:608" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="9:609" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <instance id="9:610" name="SectionHeader" x="24" y="232" width="364" height="24" />
+      <instance id="9:612" name="CustomerRow" x="24" y="268" width="364" height="64" />
+      <instance id="9:613" name="CustomerRow" x="24" y="342" width="364" height="64" />
+      <instance id="9:614" name="CustomerRow" x="24" y="416" width="364" height="64" />
+      <instance id="9:615" name="CustomerRow" x="24" y="490" width="364" height="64" />
+      <frame id="9:616" name="FollowUpCard" x="24" y="650" width="364" height="70">
+        <frame id="9:617" name="IconTile" x="17" y="15" width="40" height="40">
+          <frame id="9:618" name="icon/clock" x="8" y="8" width="24" height="24" />
+        </frame>
+        <frame id="9:620" name="Text" x="69" y="15" width="246" height="40">
+          <text id="9:621" name="Title" x="0" y="0" width="188" height="21" />
+          <text id="9:622" name="Subtitle" x="0" y="23" width="158" height="17" />
+        </frame>
+        <frame id="9:623" name="icon/chevron-right" x="327" y="25" width="20" height="20" />
+      </frame>
+      <instance id="9:628" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+      <frame id="9:689" name="Snackbar" x="24" y="744" width="364" height="56">
+        <text id="9:690" name="Message" x="16" y="17.5" width="117" height="21" />
+        <text id="9:691" name="Action" x="316" y="19.5" width="32" height="17" />
+      </frame>
+    </frame>
+    <text id="9:692" name="ScreenLabel" x="80" y="2028" width="132" height="17" />
+    <text id="9:693" name="ScreenLabel" x="1496" y="2028" width="142" height="17" />
+    <text id="9:694" name="ScreenLabel" x="1024" y="2028" width="157" height="17" />
+    <frame id="9:695" name="Add customer · Validation" x="552" y="2064" width="412" height="892">
+      <frame id="9:696" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="9:697" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="9:698" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="9:709" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="9:710" name="Subtitle" x="24" y="76" width="173" height="17" />
+      <instance id="9:711" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="9:712" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="9:713" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="9:714" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="9:715" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="9:716" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="9:717" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="9:718" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="9:719" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="9:720" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="9:721" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <instance id="9:722" name="SectionHeader" x="24" y="232" width="364" height="24" />
+      <instance id="9:723" name="CustomerRow" x="24" y="268" width="364" height="64" />
+      <instance id="9:724" name="CustomerRow" x="24" y="342" width="364" height="64" />
+      <instance id="9:725" name="CustomerRow" x="24" y="416" width="364" height="64" />
+      <instance id="9:726" name="CustomerRow" x="24" y="490" width="364" height="64" />
+      <instance id="9:727" name="CustomerRow" x="24" y="564" width="364" height="64" />
+      <frame id="9:728" name="FollowUpCard" x="24" y="650" width="364" height="70">
+        <frame id="9:729" name="IconTile" x="17" y="15" width="40" height="40">
+          <frame id="9:730" name="icon/clock" x="8" y="8" width="24" height="24" />
+        </frame>
+        <frame id="9:732" name="Text" x="69" y="15" width="246" height="40">
+          <text id="9:733" name="Title" x="0" y="0" width="188" height="21" />
+          <text id="9:734" name="Subtitle" x="0" y="23" width="158" height="17" />
+        </frame>
+        <frame id="9:735" name="icon/chevron-right" x="327" y="25" width="20" height="20" />
+      </frame>
+      <frame id="9:737" name="IconButton/plus" x="332" y="740" width="56" height="56">
+        <frame id="9:738" name="icon/plus" x="16" y="16" width="24" height="24" />
+      </frame>
+      <instance id="9:740" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+      <rounded-rectangle id="9:741" name="Scrim" x="0" y="0" width="412" height="892" />
+      <frame id="9:742" name="AddCustomerDialog" x="24" y="209.5" width="364" height="547">
+        <frame id="9:743" name="Header" x="24" y="22" width="316" height="44">
+          <text id="9:744" name="Title" x="0" y="9" width="145" height="26" />
+          <frame id="9:745" name="Close" x="272" y="0" width="44" height="44">
+            <frame id="9:746" name="icon/x" x="12" y="12" width="20" height="20" />
+          </frame>
+        </frame>
+        <frame id="15:679" name="ErrorSummary" x="24" y="82" width="316" height="46">
+          <frame id="15:680" name="icon/alert" x="12" y="13" width="20" height="20" />
+          <text id="15:683" name="Message" x="40" y="14" width="145" height="18" />
+        </frame>
+        <instance id="9:748" name="TextField" x="24" y="144" width="316" height="73" />
+        <instance id="9:749" name="TextField" x="24" y="233" width="316" height="73" />
+        <frame id="9:823" name="FieldError" x="24" y="322" width="140" height="17">
+          <frame id="9:824" name="icon/alert" x="0" y="0.5" width="16" height="16" />
+          <text id="9:826" name="ErrorText" x="20" y="0" width="120" height="17" />
+        </frame>
+        <instance id="9:750" name="TextField" x="24" y="355" width="316" height="73" />
+        <frame id="9:827" name="FieldError" x="24" y="444" width="174" height="17">
+          <frame id="9:828" name="icon/alert" x="0" y="0.5" width="16" height="16" />
+          <text id="9:830" name="ErrorText" x="20" y="0" width="154" height="17" />
+        </frame>
+        <frame id="9:751" name="Actions" x="24" y="477" width="316" height="48">
+          <instance id="9:752" name="Button/Secondary" x="0" y="0" width="153" height="48" />
+          <instance id="9:753" name="Button/Primary" x="165" y="0" width="151" height="48" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="9:831" name="Settings" x="1968" y="2064" width="412" height="892">
+      <frame id="9:832" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="9:833" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="9:834" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="9:845" name="Title" x="24" y="44" width="100" height="30" />
+      <text id="9:846" name="Subtitle" x="24" y="76" width="232" height="17" />
+      <frame id="9:850" name="ProfileCard" x="24" y="116" width="364" height="84">
+        <frame id="9:851" name="Avatar/52" x="17" y="16" width="52" height="52">
+          <text id="9:852" name="Initials" x="13" y="15" width="26" height="22" />
+        </frame>
+        <frame id="9:853" name="Text" x="81" y="22" width="234" height="40">
+          <text id="9:854" name="Name" x="0" y="0" width="85" height="21" />
+          <text id="9:855" name="Role" x="0" y="23" width="171" height="17" />
+        </frame>
+        <frame id="9:856" name="icon/chevron-right" x="327" y="32" width="20" height="20" />
+      </frame>
+      <text id="9:858" name="SectionLabel" x="24" y="222" width="24" height="17" hidden="true" />
+      <frame id="9:879" name="GroupCard" x="24" y="246" width="364" height="172" hidden="true">
+        <frame id="9:859" name="Row/Profile" x="1" y="1" width="362" height="56">
+          <frame id="9:860" name="icon/user" x="16" y="16" width="24" height="24" />
+          <text id="9:862" name="Label" x="52" y="17.5" width="262" height="21" />
+          <frame id="9:863" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+        <rounded-rectangle id="9:880" name="Divider" x="1" y="57" width="362" height="1" />
+        <frame id="9:865" name="Row/Notifications" x="1" y="58" width="362" height="56">
+          <frame id="9:866" name="icon/bell" x="16" y="16" width="24" height="24" />
+          <text id="9:868" name="Label" x="52" y="17.5" width="238" height="21" />
+          <text id="9:869" name="Value" x="302" y="19.5" width="12" height="17" />
+          <frame id="9:870" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+        <rounded-rectangle id="9:881" name="Divider" x="1" y="114" width="362" height="1" />
+        <frame id="9:872" name="Row/Workspace" x="1" y="115" width="362" height="56">
+          <frame id="9:873" name="icon/building" x="16" y="16" width="24" height="24" />
+          <text id="9:875" name="Label" x="52" y="17.5" width="202" height="21" />
+          <text id="9:876" name="Value" x="266" y="19.5" width="48" height="17" />
+          <frame id="9:877" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+      </frame>
+      <text id="9:882" name="SectionLabel" x="24" y="440" width="48" height="17" hidden="true" />
+      <frame id="9:904" name="GroupCard" x="24" y="464" width="364" height="172" hidden="true">
+        <frame id="9:883" name="Row/Appearance" x="1" y="1" width="362" height="56">
+          <frame id="9:884" name="icon/sliders" x="16" y="16" width="24" height="24" />
+          <text id="9:886" name="Label" x="52" y="17.5" width="226" height="21" />
+          <text id="9:887" name="Value" x="290" y="19.5" width="24" height="17" />
+          <frame id="9:888" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+        <rounded-rectangle id="9:905" name="Divider" x="1" y="57" width="362" height="1" />
+        <frame id="9:890" name="Row/Language" x="1" y="58" width="362" height="56">
+          <frame id="9:891" name="icon/globe" x="16" y="16" width="24" height="24" />
+          <text id="9:893" name="Label" x="52" y="17.5" width="226" height="21" />
+          <text id="9:894" name="Value" x="290" y="19.5" width="24" height="17" />
+          <frame id="9:895" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+        <rounded-rectangle id="9:906" name="Divider" x="1" y="114" width="362" height="1" />
+        <frame id="9:897" name="Row/Data &amp; sync" x="1" y="115" width="362" height="56">
+          <frame id="9:898" name="icon/cloud" x="16" y="16" width="24" height="24" />
+          <text id="9:900" name="Label" x="52" y="17.5" width="168" height="21" />
+          <text id="9:901" name="Value" x="232" y="19.5" width="82" height="17" />
+          <frame id="9:902" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+      </frame>
+      <text id="9:907" name="SectionLabel" x="24" y="658" width="24" height="17" hidden="true" />
+      <frame id="9:920" name="GroupCard" x="24" y="682" width="364" height="115" hidden="true">
+        <frame id="9:908" name="Row/Help center" x="1" y="1" width="362" height="56">
+          <frame id="9:909" name="icon/help" x="16" y="16" width="24" height="24" />
+          <text id="9:911" name="Label" x="52" y="17.5" width="262" height="21" />
+          <frame id="9:912" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+        <rounded-rectangle id="9:921" name="Divider" x="1" y="57" width="362" height="1" />
+        <frame id="9:914" name="Row/Sign out" x="1" y="58" width="362" height="56">
+          <frame id="9:915" name="icon/log-out" x="16" y="16" width="24" height="24" />
+          <text id="9:917" name="Label" x="52" y="17.5" width="262" height="21" />
+          <frame id="9:918" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+      </frame>
+      <frame id="124:849" name="SettingsContent" x="0" y="222" width="412" height="820">
+        <text id="124:850" name="SectionLabel" x="24" y="0" width="58" height="17" />
+        <frame id="124:851" name="GroupCard" x="24" y="24" width="364" height="196">
+          <frame id="124:852" name="Row/Personal information" x="1" y="1" width="362" height="64">
+            <frame id="124:853" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:854" name="icon/user" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:856" name="Title" x="64" y="11" width="144" height="21" />
+            <text id="124:857" name="Subtitle" x="64" y="33" width="99" height="17" />
+            <frame id="124:858" name="icon/chevron-right" x="326" y="22" width="20" height="20" />
+          </frame>
+          <rounded-rectangle id="124:860" name="Divider" x="64" y="65" width="298" height="1" />
+          <frame id="124:861" name="Row/Security" x="1" y="66" width="362" height="64">
+            <frame id="124:862" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:863" name="icon/shield" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:865" name="Title" x="64" y="11" width="55" height="21" />
+            <text id="124:866" name="Subtitle" x="64" y="33" width="129" height="17" />
+            <frame id="124:867" name="icon/chevron-right" x="326" y="22" width="20" height="20" />
+          </frame>
+          <rounded-rectangle id="124:869" name="Divider" x="64" y="130" width="298" height="1" />
+          <frame id="124:870" name="Row/Team members" x="1" y="131" width="362" height="64">
+            <frame id="124:871" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:872" name="icon/users" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:877" name="Title" x="64" y="11" width="106" height="21" />
+            <text id="124:878" name="Subtitle" x="64" y="33" width="164" height="17" />
+            <frame id="124:879" name="icon/chevron-right" x="326" y="22" width="20" height="20" />
+          </frame>
+        </frame>
+        <text id="124:881" name="SectionLabel" x="24" y="242" width="80" height="17" />
+        <frame id="124:882" name="GroupCard" x="24" y="266" width="364" height="261">
+          <frame id="124:883" name="Row/Appearance" x="1" y="1" width="362" height="64">
+            <frame id="124:884" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:885" name="icon/moon" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:887" name="Title" x="64" y="11" width="81" height="21" />
+            <text id="124:888" name="Subtitle" x="64" y="33" width="28" height="17" />
+            <frame id="124:889" name="icon/chevron-right" x="326" y="22" width="20" height="20" />
+          </frame>
+          <rounded-rectangle id="124:891" name="Divider" x="64" y="65" width="298" height="1" />
+          <frame id="124:892" name="Row/Notifications" x="1" y="66" width="362" height="64">
+            <frame id="124:893" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:894" name="icon/bell" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:896" name="Title" x="64" y="11" width="87" height="21" />
+            <text id="124:897" name="Subtitle" x="64" y="33" width="155" height="17" />
+            <frame id="124:898" name="Switch/On" x="294" y="16" width="52" height="32" />
+          </frame>
+          <rounded-rectangle id="124:900" name="Divider" x="64" y="130" width="298" height="1" />
+          <frame id="124:901" name="Row/Offline demo mode" x="1" y="131" width="362" height="64">
+            <frame id="124:902" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:903" name="icon/wifioff" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:911" name="Title" x="64" y="11" width="131" height="21" />
+            <text id="124:912" name="Subtitle" x="64" y="33" width="174" height="17" />
+            <frame id="124:913" name="Switch/Off" x="294" y="16" width="52" height="32" />
+          </frame>
+          <rounded-rectangle id="124:915" name="Divider" x="64" y="195" width="298" height="1" />
+          <frame id="124:916" name="Row/Language" x="1" y="196" width="362" height="64">
+            <frame id="124:917" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:918" name="icon/globe" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:920" name="Title" x="64" y="11" width="66" height="21" />
+            <text id="124:921" name="Subtitle" x="64" y="33" width="40" height="17" />
+            <frame id="124:922" name="icon/chevron-right" x="326" y="22" width="20" height="20" />
+          </frame>
+        </frame>
+        <text id="124:924" name="SectionLabel" x="24" y="549" width="55" height="17" />
+        <frame id="124:925" name="GroupCard" x="24" y="573" width="364" height="107">
+          <frame id="124:926" name="Row/Help center" x="1" y="1" width="362" height="52">
+            <frame id="124:927" name="IconTile" x="16" y="8" width="36" height="36">
+              <frame id="124:928" name="icon/help" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:930" name="Title" x="64" y="16" width="79" height="21" />
+            <frame id="124:931" name="icon/chevron-right" x="326" y="16" width="20" height="20" />
+          </frame>
+          <rounded-rectangle id="124:933" name="Divider" x="64" y="53" width="298" height="1" />
+          <frame id="124:934" name="Row/Privacy policy" x="1" y="54" width="362" height="52">
+            <frame id="124:935" name="IconTile" x="16" y="8" width="36" height="36">
+              <frame id="124:936" name="icon/shieldcheck" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:939" name="Title" x="64" y="16" width="92" height="21" />
+            <frame id="124:940" name="icon/chevron-right" x="326" y="16" width="20" height="20" />
+          </frame>
+        </frame>
+        <frame id="124:942" name="SignOutCard" x="24" y="726" width="81" height="52">
+          <frame id="124:943" name="icon/log-out" x="0" y="17" width="18" height="18" />
+          <text id="124:945" name="SignOut" x="26" y="15.5" width="55" height="21" />
+        </frame>
+        <text id="124:946" name="Version" x="24" y="790" width="364" height="17" />
+      </frame>
+      <instance id="9:922" name="BottomNav/Settings" x="0" y="820" width="412" height="72" />
+      <frame id="15:646" name="IconButton/bell" x="340" y="40" width="48" height="48">
+        <frame id="15:647" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="15:649" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="15:650" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+    </frame>
+    <text id="9:939" name="ScreenLabel" x="552" y="2028" width="150" height="17" />
+    <text id="9:940" name="ScreenLabel" x="1968" y="2028" width="47" height="17" />
+    <frame id="10:542" name="Customers · Pull to refresh" x="80" y="3056" width="412" height="892">
+      <frame id="10:543" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="10:544" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="10:545" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="10:556" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="10:557" name="Subtitle" x="24" y="76" width="173" height="17" />
+      <instance id="10:558" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="10:559" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="10:560" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="10:561" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="10:562" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="10:563" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="10:564" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="10:565" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="10:566" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="10:567" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="10:568" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <instance id="10:570" name="CustomerRow" x="24" y="306" width="364" height="64" />
+      <instance id="10:571" name="CustomerRow" x="24" y="380" width="364" height="64" />
+      <instance id="10:572" name="CustomerRow" x="24" y="454" width="364" height="64" />
+      <instance id="10:573" name="CustomerRow" x="24" y="528" width="364" height="64" />
+      <frame id="10:584" name="IconButton/plus" x="332" y="740" width="56" height="56">
+        <frame id="10:585" name="icon/plus" x="16" y="16" width="24" height="24" />
+      </frame>
+      <instance id="10:587" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+      <instance id="12:649" name="CustomerRow" x="24" y="602" width="364" height="64" />
+      <frame id="146:885" name="IconButton/bell" x="284" y="44" width="48" height="48">
+        <frame id="146:886" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="146:888" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="146:889" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+      <frame id="152:906" name="RefreshIndicator" x="186" y="228" width="40" height="40">
+        <frame id="152:907" name="Spinner" x="8" y="8" width="24" height="24" />
+      </frame>
+      <text id="152:909" name="Hint" x="155" y="272" width="102" height="17" />
+    </frame>
+    <frame id="10:652" name="Customers · Loading" x="552" y="3056" width="412" height="892">
+      <frame id="10:653" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="10:654" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="10:655" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="10:666" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="10:667" name="Subtitle" x="24" y="76" width="146" height="17" />
+      <instance id="10:668" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="10:669" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="10:670" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="10:671" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="10:672" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="10:673" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="10:674" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="10:675" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="10:676" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="10:677" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="10:678" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <instance id="10:697" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+      <frame id="10:758" name="SkeletonRow" x="24" y="232" width="364" height="64">
+        <ellipse id="10:759" name="AvatarBlock" x="12" y="12" width="40" height="40" />
+        <rounded-rectangle id="10:760" name="NameBlock" x="64" y="17" width="128" height="12" />
+        <rounded-rectangle id="10:761" name="CompanyBlock" x="64" y="37" width="92" height="10" />
+        <rounded-rectangle id="10:762" name="ChevronBlock" x="336" y="24" width="16" height="16" />
+      </frame>
+      <frame id="10:763" name="SkeletonRow" x="24" y="306" width="364" height="64">
+        <ellipse id="10:764" name="AvatarBlock" x="12" y="12" width="40" height="40" />
+        <rounded-rectangle id="10:765" name="NameBlock" x="64" y="17" width="128" height="12" />
+        <rounded-rectangle id="10:766" name="CompanyBlock" x="64" y="37" width="92" height="10" />
+        <rounded-rectangle id="10:767" name="ChevronBlock" x="336" y="24" width="16" height="16" />
+      </frame>
+      <frame id="10:768" name="SkeletonRow" x="24" y="380" width="364" height="64">
+        <ellipse id="10:769" name="AvatarBlock" x="12" y="12" width="40" height="40" />
+        <rounded-rectangle id="10:770" name="NameBlock" x="64" y="17" width="128" height="12" />
+        <rounded-rectangle id="10:771" name="CompanyBlock" x="64" y="37" width="92" height="10" />
+        <rounded-rectangle id="10:772" name="ChevronBlock" x="336" y="24" width="16" height="16" />
+      </frame>
+      <frame id="10:773" name="SkeletonRow" x="24" y="454" width="364" height="64">
+        <ellipse id="10:774" name="AvatarBlock" x="12" y="12" width="40" height="40" />
+        <rounded-rectangle id="10:775" name="NameBlock" x="64" y="17" width="128" height="12" />
+        <rounded-rectangle id="10:776" name="CompanyBlock" x="64" y="37" width="92" height="10" />
+        <rounded-rectangle id="10:777" name="ChevronBlock" x="336" y="24" width="16" height="16" />
+      </frame>
+      <frame id="10:778" name="SkeletonRow" x="24" y="528" width="364" height="64">
+        <ellipse id="10:779" name="AvatarBlock" x="12" y="12" width="40" height="40" />
+        <rounded-rectangle id="10:780" name="NameBlock" x="64" y="17" width="128" height="12" />
+        <rounded-rectangle id="10:781" name="CompanyBlock" x="64" y="37" width="92" height="10" />
+        <rounded-rectangle id="10:782" name="ChevronBlock" x="336" y="24" width="16" height="16" />
+      </frame>
+    </frame>
+    <text id="10:783" name="ScreenLabel" x="80" y="3020" width="155" height="17" />
+    <text id="10:784" name="ScreenLabel" x="552" y="3020" width="118" height="17" />
+    <frame id="11:620" name="Deal detail" x="1024" y="3056" width="412" height="892">
+      <frame id="11:621" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="11:622" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="11:623" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <frame id="11:634" name="IconButton/arrow-left" x="12" y="30" width="48" height="48">
+        <frame id="11:635" name="icon/arrow-left" x="12" y="12" width="24" height="24" />
+      </frame>
+      <text id="11:637" name="Title" x="68" y="43" width="37" height="22" />
+      <instance id="11:638" name="IconButton/Ghost" x="340" y="32" width="48" height="48" />
+      <frame id="11:643" name="CompanyTile" x="24" y="92" width="52" height="52">
+        <frame id="11:644" name="icon/building" x="14" y="14" width="24" height="24" />
+      </frame>
+      <text id="11:646" name="Company" x="88" y="96" width="130" height="26" />
+      <text id="11:647" name="Subtitle" x="88" y="126" width="75" height="17" />
+      <frame id="11:648" name="DealValueCard" x="24" y="176" width="364" height="118">
+        <text id="11:649" name="Eyebrow" x="19" y="17" width="71" height="17" />
+        <text id="11:650" name="Amount" x="19" y="40" width="98" height="30" />
+        <frame id="11:651" name="StageRow" x="19" y="76" width="158" height="25">
+          <frame id="11:652" name="Chip/Proposal" x="0" y="0" width="80" height="25">
+            <ellipse id="11:653" name="Dot" x="9" y="9.5" width="6" height="6" />
+            <text id="11:654" name="Label" x="20" y="4" width="51" height="17" />
+          </frame>
+          <text id="11:655" name="CloseDate" x="88" y="4" width="70" height="17" />
+        </frame>
+      </frame>
+      <frame id="11:656" name="StageStepper" x="24" y="316" width="364" height="80">
+        <frame id="11:657" name="Steps" x="13" y="17" width="338" height="46">
+          <frame id="139:885" name="Step/Qualified" x="0" y="0" width="84.5" height="46">
+            <frame id="139:886" name="Track" x="0" y="0" width="84.5" height="22">
+              <frame id="139:887" name="State" x="31.25" y="0" width="22" height="22">
+                <frame id="139:888" name="icon/check" x="4.070000171661377" y="4.070000171661377" width="13.859999656677246" height="13.859999656677246" />
+              </frame>
+              <rounded-rectangle id="139:912" name="Connector/Right" x="53.25" y="10" width="31.25" height="2" />
+            </frame>
+            <text id="139:891" name="Label" x="0" y="30" width="84.5" height="16" />
+          </frame>
+          <frame id="139:892" name="Step/Proposal" x="84.5" y="0" width="84.5" height="46">
+            <frame id="139:893" name="Track" x="0" y="0" width="84.5" height="22">
+              <frame id="139:895" name="State" x="31.25" y="0" width="22" height="22" />
+              <rounded-rectangle id="139:913" name="Connector/Left" x="0" y="10" width="31.25" height="2" />
+              <rounded-rectangle id="139:914" name="Connector/Right" x="53.25" y="10" width="31.25" height="2" />
+            </frame>
+            <text id="139:898" name="Label" x="0" y="30" width="84.5" height="16" />
+          </frame>
+          <frame id="139:899" name="Step/Negotiation" x="169" y="0" width="84.5" height="46">
+            <frame id="139:900" name="Track" x="0" y="0" width="84.5" height="22">
+              <frame id="139:902" name="State" x="31.25" y="0" width="22" height="22" />
+              <rounded-rectangle id="139:915" name="Connector/Left" x="0" y="10" width="31.25" height="2" />
+              <rounded-rectangle id="139:916" name="Connector/Right" x="53.25" y="10" width="31.25" height="2" />
+            </frame>
+            <text id="139:904" name="Label" x="0" y="30" width="84.5" height="16" />
+          </frame>
+          <frame id="139:905" name="Step/Won" x="253.5" y="0" width="84.5" height="46">
+            <frame id="139:906" name="Track" x="0" y="0" width="84.5" height="22">
+              <frame id="139:908" name="State" x="31.25" y="0" width="22" height="22" />
+              <rounded-rectangle id="139:917" name="Connector/Left" x="0" y="10" width="31.25" height="2" />
+            </frame>
+            <text id="139:909" name="Label" x="0" y="30" width="84.5" height="16" />
+          </frame>
+        </frame>
+      </frame>
+      <instance id="11:673" name="SectionHeader" x="24" y="427" width="364" height="24" />
+      <frame id="11:676" name="DealDetails" x="24" y="459" width="364" height="172">
+        <frame id="11:677" name="Detail/Close date" x="1" y="1" width="362" height="56">
+          <frame id="147:885" name="IconTile" x="16" y="12" width="32" height="32">
+            <frame id="11:678" name="icon/calendar" x="8" y="8" width="16" height="16" />
+          </frame>
+          <text id="11:680" name="Label" x="60" y="17.5" width="192" height="21" />
+          <text id="11:681" name="Value" x="264" y="17.5" width="82" height="21" />
+        </frame>
+        <rounded-rectangle id="11:682" name="Divider" x="1" y="57" width="362" height="1" />
+        <frame id="11:683" name="Detail/Owner" x="1" y="58" width="362" height="56">
+          <frame id="147:886" name="IconTile" x="16" y="12" width="32" height="32">
+            <frame id="11:684" name="icon/user" x="8" y="8" width="16" height="16" />
+          </frame>
+          <text id="11:686" name="Label" x="60" y="17.5" width="192" height="21" />
+          <text id="11:687" name="Value" x="264" y="17.5" width="82" height="21" />
+        </frame>
+        <rounded-rectangle id="11:688" name="Divider" x="1" y="114" width="362" height="1" />
+        <frame id="11:689" name="Detail/Primary contact" x="1" y="115" width="362" height="56">
+          <frame id="147:887" name="IconTile" x="16" y="12" width="32" height="32">
+            <frame id="11:690" name="icon/users" x="8" y="8" width="16" height="16" />
+          </frame>
+          <text id="11:692" name="Label" x="60" y="17.5" width="190" height="21" />
+          <text id="11:693" name="Value" x="262" y="17.5" width="84" height="21" />
+        </frame>
+      </frame>
+      <instance id="11:694" name="SectionHeader" x="24" y="653" width="364" height="24" />
+      <frame id="11:697" name="ActivityCard" x="24" y="685" width="364" height="68">
+        <text id="11:698" name="Title" x="63" y="13" width="161" height="21" />
+        <text id="11:699" name="Meta" x="63" y="38" width="151" height="17" />
+        <frame id="147:888" name="IconTile" x="17" y="17" width="34" height="34">
+          <frame id="147:889" name="icon/circle-check" x="8" y="8" width="18" height="18">
+            <ellipse id="147:890" name="Circle" x="0" y="0" width="18" height="18" />
+            <frame id="147:891" name="icon/check" x="4" y="4" width="10" height="10" />
+          </frame>
+        </frame>
+        <text id="147:893" name="Time" x="285" y="25.5" width="62" height="17" />
+      </frame>
+      <frame id="11:700" name="BottomAction" x="0" y="812" width="412" height="80">
+        <instance id="11:701" name="Button/Primary" x="25" y="16" width="362" height="48" />
+      </frame>
+    </frame>
+    <frame id="11:703" name="Notifications" x="1496" y="3056" width="412" height="892">
+      <frame id="15:684" name="ActionHit" x="303" y="34" width="85" height="48">
+        <text id="11:721" name="Action" x="4" y="15" width="77" height="17" />
+      </frame>
+      <frame id="11:704" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="11:705" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="11:706" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <frame id="11:717" name="IconButton/arrow-left" x="12" y="30" width="48" height="48">
+        <frame id="11:718" name="icon/arrow-left" x="12" y="12" width="24" height="24" />
+      </frame>
+      <text id="11:720" name="Title" x="68" y="42" width="155" height="30" />
+      <frame id="11:722" name="NotificationFilters" x="24" y="104" width="206" height="34">
+        <frame id="11:723" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="11:724" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="11:725" name="FilterChip/Deals" x="51" y="0" width="62" height="34">
+          <text id="11:726" name="Label" x="15" y="9" width="32" height="16" />
+        </frame>
+        <frame id="11:727" name="FilterChip/Mentions" x="121" y="0" width="85" height="34">
+          <text id="11:728" name="Label" x="15" y="9" width="55" height="16" />
+        </frame>
+      </frame>
+      <text id="11:729" name="SectionLabel" x="24" y="158" width="43" height="17" />
+      <frame id="11:759" name="NotificationGroup" x="24" y="182" width="364" height="232">
+        <frame id="11:730" name="Notification/Deal moved to Negotiation" x="1" y="1" width="362" height="76">
+          <frame id="11:731" name="IconTile" x="14" y="20" width="36" height="36">
+            <frame id="11:732" name="icon/trending-up" x="8" y="8" width="20" height="20" />
+          </frame>
+          <frame id="11:734" name="Text" x="62" y="18" width="249" height="40">
+            <text id="11:735" name="Title" x="0" y="0" width="182" height="21" />
+            <text id="11:736" name="Body" x="0" y="23" width="143" height="17" />
+          </frame>
+          <frame id="11:737" name="Meta" x="323" y="21.5" width="25" height="33">
+            <text id="11:738" name="Time" x="0" y="0" width="25" height="17" />
+            <ellipse id="11:739" name="UnreadDot" x="17" y="25" width="8" height="8" />
+          </frame>
+        </frame>
+        <rounded-rectangle id="11:760" name="Divider" x="1" y="77" width="362" height="1" />
+        <frame id="11:740" name="Notification/New lead captured" x="1" y="78" width="362" height="76">
+          <frame id="11:741" name="IconTile" x="14" y="20" width="36" height="36">
+            <frame id="11:742" name="icon/user-plus" x="8" y="8" width="20" height="20" />
+          </frame>
+          <frame id="11:744" name="Text" x="62" y="18" width="259" height="40">
+            <text id="11:745" name="Title" x="0" y="0" width="128" height="21" />
+            <text id="11:746" name="Body" x="0" y="23" width="150" height="17" />
+          </frame>
+          <frame id="11:747" name="Meta" x="333" y="21.5" width="15" height="33">
+            <text id="11:748" name="Time" x="0" y="0" width="15" height="17" />
+            <ellipse id="11:749" name="UnreadDot" x="7" y="25" width="8" height="8" />
+          </frame>
+        </frame>
+        <rounded-rectangle id="11:761" name="Divider" x="1" y="154" width="362" height="1" />
+        <frame id="11:750" name="Notification/Task due today" x="1" y="155" width="362" height="76">
+          <frame id="11:751" name="IconTile" x="14" y="20" width="36" height="36">
+            <frame id="11:752" name="icon/clock" x="8" y="8" width="20" height="20" />
+          </frame>
+          <frame id="11:754" name="Text" x="62" y="18" width="259" height="40">
+            <text id="11:755" name="Title" x="0" y="0" width="103" height="21" />
+            <text id="11:756" name="Body" x="0" y="23" width="156" height="17" />
+          </frame>
+          <frame id="11:757" name="Meta" x="333" y="29.5" width="15" height="17">
+            <text id="11:758" name="Time" x="0" y="0" width="15" height="17" />
+          </frame>
+        </frame>
+      </frame>
+      <text id="11:762" name="SectionLabel" x="24" y="438" width="51" height="17" />
+      <frame id="11:781" name="NotificationGroup" x="24" y="462" width="364" height="309">
+        <frame id="11:763" name="Notification/You were mentioned" x="1" y="1" width="362" height="76">
+          <frame id="11:764" name="IconTile" x="14" y="20" width="36" height="36">
+            <frame id="11:765" name="icon/message" x="8" y="8" width="20" height="20" />
+          </frame>
+          <frame id="11:767" name="Text" x="62" y="18" width="218" height="40">
+            <text id="11:768" name="Title" x="0" y="0" width="136" height="21" />
+            <text id="11:769" name="Body" x="0" y="23" width="143" height="17" />
+          </frame>
+          <frame id="11:770" name="Meta" x="292" y="29.5" width="56" height="17">
+            <text id="11:771" name="Time" x="0" y="0" width="56" height="17" />
+          </frame>
+        </frame>
+        <rounded-rectangle id="11:782" name="Divider" x="1" y="77" width="362" height="1" />
+        <frame id="11:772" name="Notification/Weekly report ready" x="1" y="78" width="362" height="76">
+          <frame id="11:773" name="IconTile" x="14" y="20" width="36" height="36">
+            <frame id="11:774" name="icon/bell" x="8" y="8" width="20" height="20" />
+          </frame>
+          <frame id="11:776" name="Text" x="62" y="18" width="248" height="40">
+            <text id="11:777" name="Title" x="0" y="0" width="133" height="21" />
+            <text id="11:778" name="Body" x="0" y="23" width="127" height="17" />
+          </frame>
+          <frame id="11:779" name="Meta" x="322" y="29.5" width="26" height="17">
+            <text id="11:780" name="Time" x="0" y="0" width="26" height="17" />
+          </frame>
+        </frame>
+        <rounded-rectangle id="12:638" name="Divider" x="1" y="154" width="362" height="1" />
+        <frame id="12:629" name="Notification/Deal won" x="1" y="155" width="362" height="76">
+          <frame id="12:630" name="IconTile" x="14" y="20" width="36" height="36">
+            <frame id="12:631" name="icon/trophy" x="8" y="8" width="20" height="20" />
+          </frame>
+          <frame id="12:633" name="Text" x="62" y="18" width="252" height="40">
+            <text id="12:634" name="Title" x="0" y="0" width="61" height="21" />
+            <text id="12:635" name="Body" x="0" y="23" width="143" height="17" />
+          </frame>
+          <frame id="12:636" name="Meta" x="326" y="29.5" width="22" height="17">
+            <text id="12:637" name="Time" x="0" y="0" width="22" height="17" />
+          </frame>
+        </frame>
+        <rounded-rectangle id="12:648" name="Divider" x="1" y="231" width="362" height="1" />
+        <frame id="12:639" name="Notification/New comment" x="1" y="232" width="362" height="76">
+          <frame id="12:640" name="IconTile" x="14" y="20" width="36" height="36">
+            <frame id="12:641" name="icon/message" x="8" y="8" width="20" height="20" />
+          </frame>
+          <frame id="12:643" name="Text" x="62" y="18" width="248" height="40">
+            <text id="12:644" name="Title" x="0" y="0" width="96" height="21" />
+            <text id="12:645" name="Body" x="0" y="23" width="154" height="17" />
+          </frame>
+          <frame id="12:646" name="Meta" x="322" y="29.5" width="26" height="17">
+            <text id="12:647" name="Time" x="0" y="0" width="26" height="17" />
+          </frame>
+        </frame>
+      </frame>
+      <text id="11:783" name="Footer" x="22" y="795" width="115" height="17" hidden="true" />
+    </frame>
+    <text id="11:784" name="ScreenLabel" x="1024" y="3020" width="62" height="17" />
+    <text id="11:785" name="ScreenLabel" x="1496" y="3020" width="75" height="17" />
+    <frame id="16:649" name="Customers · Offline" x="1968" y="3056" width="412" height="892">
+      <frame id="16:650" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="16:651" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="16:652" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="16:663" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="16:664" name="Subtitle" x="24" y="76" width="167" height="17" />
+      <instance id="16:665" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="16:694" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+      <frame id="16:695" name="IconButton/bell" x="284" y="44" width="48" height="48">
+        <frame id="16:696" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="16:698" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="16:699" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+      <frame id="16:761" name="ErrorTile" x="170" y="300" width="72" height="72">
+        <frame id="16:762" name="icon/wifi-off" x="20" y="20" width="32" height="32" />
+      </frame>
+      <text id="16:764" name="ErrorTitle" x="56" y="400" width="300" height="26" />
+      <text id="16:765" name="ErrorBody" x="56" y="434" width="300" height="21" />
+      <instance id="16:766" name="Button/Primary" x="140" y="500" width="132" height="48" />
+    </frame>
+    <text id="16:768" name="ScreenLabel" x="1968" y="3020" width="112" height="17" />
+    <frame id="64:672" name="Dashboard · Dark" x="80" y="4120" width="412" height="892">
+      <frame id="64:673" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="64:674" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="64:675" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="64:686" name="Greeting" x="24" y="44" width="112" height="17" />
+      <text id="64:687" name="Title" x="24" y="62" width="137" height="30" />
+      <instance id="64:688" name="IconButton/Ghost" x="340" y="48" width="48" height="48" />
+      <instance id="64:689" name="StatCard" x="24" y="124" width="176" height="142" />
+      <instance id="64:690" name="StatCard/Revenue" x="212" y="124" width="176" height="142" />
+      <frame id="64:691" name="FocusCard" x="24" y="286" width="364" height="131">
+        <text id="64:692" name="Eyebrow" x="18" y="16" width="92" height="17" />
+        <text id="64:693" name="Headline" x="18" y="41" width="266" height="22" />
+        <frame id="64:694" name="ViewTasks" x="18" y="71" width="105" height="44">
+          <text id="64:695" name="Label" x="12" y="13.5" width="61" height="17" />
+          <frame id="64:696" name="icon/chevron-right" x="79" y="14" width="16" height="16" />
+        </frame>
+      </frame>
+      <instance id="64:698" name="SectionHeader" x="24" y="425" width="364" height="24" />
+      <frame id="64:699" name="MonthlyTarget" x="24" y="703" width="364" height="62">
+        <frame id="64:700" name="Row" x="17" y="17" width="332" height="10">
+          <text id="64:701" name="Label" x="0" y="-5.5" width="101" height="21" />
+          <text id="64:702" name="Value" x="303" y="-5.5" width="29" height="21" />
+        </frame>
+        <frame id="64:703" name="Track" x="17" y="37" width="332" height="8">
+          <frame id="64:704" name="Bar" x="0" y="0" width="239" height="8" />
+        </frame>
+      </frame>
+      <instance id="64:705" name="BottomNav" x="0" y="820" width="412" height="72" />
+      <frame id="64:706" name="ActivityFeed" x="24" y="461" width="364" height="187">
+        <frame id="64:707" name="Activity/0" x="7" y="7" width="350" height="57">
+          <frame id="64:708" name="EventIcon" x="10" y="11.5" width="34" height="34">
+            <frame id="64:709" name="icon/trending-up" x="7" y="7" width="20" height="20" />
+          </frame>
+          <frame id="64:711" name="Text" x="56" y="9" width="210" height="39">
+            <text id="64:712" name="Headline" x="0" y="0" width="161" height="21" />
+            <text id="64:713" name="Meta" x="0" y="22" width="151" height="17" />
+          </frame>
+          <text id="64:714" name="Time" x="278" y="20" width="62" height="17" />
+        </frame>
+        <rounded-rectangle id="64:715" name="Divider" x="7" y="64" width="350" height="1" />
+        <frame id="64:716" name="Activity/1" x="7" y="65" width="350" height="57">
+          <frame id="64:717" name="EventIcon" x="10" y="11.5" width="34" height="34">
+            <frame id="64:718" name="icon/mail" x="7" y="7" width="20" height="20" />
+          </frame>
+          <frame id="64:720" name="Text" x="56" y="9" width="226" height="39">
+            <text id="64:721" name="Headline" x="0" y="0" width="163" height="21" />
+            <text id="64:722" name="Meta" x="0" y="22" width="151" height="17" />
+          </frame>
+          <text id="64:723" name="Time" x="294" y="20" width="46" height="17" />
+        </frame>
+        <rounded-rectangle id="64:724" name="Divider" x="7" y="122" width="350" height="1" />
+        <frame id="64:725" name="Activity/2" x="7" y="123" width="350" height="57">
+          <frame id="64:726" name="EventIcon" x="10" y="11.5" width="34" height="34">
+            <frame id="64:727" name="icon/phone" x="7" y="7" width="20" height="20" />
+          </frame>
+          <frame id="64:729" name="Text" x="56" y="9" width="220" height="39">
+            <text id="64:730" name="Headline" x="0" y="0" width="187" height="21" />
+            <text id="64:731" name="Meta" x="0" y="22" width="140" height="17" />
+          </frame>
+          <text id="64:732" name="Time" x="288" y="20" width="52" height="17" />
+        </frame>
+      </frame>
+      <frame id="64:733" name="IconButton/bell" x="284" y="48" width="48" height="48">
+        <frame id="64:734" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="64:736" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="64:737" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+    </frame>
+    <frame id="64:738" name="Customers · Dark" x="552" y="4120" width="412" height="892">
+      <frame id="64:739" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="64:740" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="64:741" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="64:752" name="Title" x="24" y="44" width="135" height="30" />
+      <text id="64:753" name="Subtitle" x="24" y="76" width="173" height="17" />
+      <instance id="64:754" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <instance id="64:755" name="SearchField" x="24" y="116" width="364" height="48" />
+      <frame id="64:756" name="FilterChips" x="24" y="178" width="268" height="34">
+        <frame id="64:757" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="64:758" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="64:759" name="FilterChip/Active" x="51" y="0" width="66" height="34">
+          <text id="64:760" name="Label" x="15" y="9" width="36" height="16" />
+        </frame>
+        <frame id="64:761" name="FilterChip/Pending" x="125" y="0" width="78" height="34">
+          <text id="64:762" name="Label" x="15" y="9" width="48" height="16" />
+        </frame>
+        <frame id="64:763" name="FilterChip/New" x="211" y="0" width="57" height="34">
+          <text id="64:764" name="Label" x="15" y="9" width="27" height="16" />
+        </frame>
+      </frame>
+      <instance id="64:766" name="CustomerRow" x="24" y="232" width="364" height="64" />
+      <instance id="64:767" name="CustomerRow" x="24" y="306" width="364" height="64" />
+      <instance id="64:768" name="CustomerRow" x="24" y="380" width="364" height="64" />
+      <instance id="64:769" name="CustomerRow" x="24" y="454" width="364" height="64" />
+      <instance id="64:770" name="CustomerRow" x="24" y="528" width="364" height="64" />
+      <frame id="64:771" name="FollowUpCard" x="24" y="864" width="364" height="70">
+        <frame id="64:772" name="IconTile" x="17" y="15" width="40" height="40">
+          <frame id="64:773" name="icon/clock" x="8" y="8" width="24" height="24" />
+        </frame>
+        <frame id="64:775" name="Text" x="69" y="15" width="246" height="40">
+          <text id="64:776" name="Title" x="0" y="0" width="188" height="21" />
+          <text id="64:777" name="Subtitle" x="0" y="23" width="158" height="17" />
+        </frame>
+        <frame id="64:778" name="icon/chevron-right" x="327" y="25" width="20" height="20" />
+      </frame>
+      <instance id="123:847" name="CustomerRow" x="24" y="750" width="364" height="64" />
+      <instance id="123:839" name="CustomerRow" x="24" y="676" width="364" height="64" />
+      <instance id="123:831" name="CustomerRow" x="24" y="602" width="364" height="64" />
+      <frame id="64:784" name="IconButton/bell" x="284" y="44" width="48" height="48">
+        <frame id="64:785" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="64:787" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="64:788" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+      <frame id="64:780" name="IconButton/plus" x="332" y="740" width="56" height="56">
+        <frame id="64:781" name="icon/plus" x="16" y="16" width="24" height="24" />
+      </frame>
+      <instance id="64:783" name="BottomNav/Customers" x="0" y="820" width="412" height="72" />
+    </frame>
+    <frame id="64:789" name="Deals · Dark" x="1024" y="4120" width="412" height="892">
+      <frame id="64:790" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="64:791" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="64:792" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="64:803" name="Title" x="24" y="44" width="69" height="30" />
+      <text id="64:804" name="Subtitle" x="24" y="76" width="138" height="17" />
+      <instance id="64:805" name="IconButton/Ghost" x="340" y="44" width="48" height="48" />
+      <frame id="64:806" name="DealsSummary" x="24" y="116" width="364" height="92">
+        <frame id="64:807" name="Metric/Open pipeline" x="18" y="11.5" width="164" height="69">
+          <text id="64:808" name="Label" x="0" y="0" width="79" height="17" />
+          <text id="64:809" name="Value" x="0" y="19" width="78" height="31" />
+          <text id="64:810" name="Sub" x="0" y="52" width="98" height="17" />
+        </frame>
+        <frame id="64:811" name="Metric/Won this month" x="182" y="11.5" width="164" height="69">
+          <text id="64:812" name="Label" x="0" y="0" width="90" height="17" />
+          <text id="64:813" name="Value" x="0" y="19" width="67" height="31" />
+          <text id="64:814" name="Sub" x="0" y="52" width="79" height="17" />
+        </frame>
+      </frame>
+      <frame id="64:815" name="DealFilters" x="24" y="228" width="330" height="34">
+        <frame id="64:816" name="FilterChip/All" x="0" y="0" width="43" height="34">
+          <text id="64:817" name="Label" x="14" y="9" width="15" height="16" />
+        </frame>
+        <frame id="64:818" name="FilterChip/Qualified" x="51" y="0" width="83" height="34">
+          <text id="64:819" name="Label" x="15" y="9" width="53" height="16" />
+        </frame>
+        <frame id="64:820" name="FilterChip/Proposal" x="142" y="0" width="81" height="34">
+          <text id="64:821" name="Label" x="15" y="9" width="51" height="16" />
+        </frame>
+        <frame id="64:822" name="FilterChip/Negotiation" x="231" y="0" width="99" height="34">
+          <text id="64:823" name="Label" x="15" y="9" width="69" height="16" />
+        </frame>
+      </frame>
+      <frame id="64:824" name="DealCard/Acme Studio" x="24" y="318" width="364" height="103">
+        <frame id="64:825" name="Row1" x="17" y="15" width="332" height="40">
+          <frame id="64:826" name="TitleCol" x="0" y="0" width="280" height="40">
+            <text id="64:827" name="Company" x="0" y="0" width="118" height="21" />
+            <text id="64:828" name="CompanyMeta" x="0" y="23" width="71" height="17" />
+          </frame>
+          <text id="64:829" name="Amount" x="280" y="0" width="52" height="21" />
+        </frame>
+        <frame id="64:830" name="Row2" x="17" y="63" width="332" height="25">
+          <frame id="64:831" name="Chip/Proposal" x="0" y="0" width="80" height="25">
+            <ellipse id="64:832" name="Dot" x="9" y="9.5" width="6" height="6" />
+            <text id="64:833" name="Label" x="20" y="4" width="51" height="17" />
+          </frame>
+          <text id="64:834" name="Close" x="88" y="4" width="70" height="17" />
+        </frame>
+      </frame>
+      <frame id="64:835" name="DealCard/Northwind Labs" x="24" y="435" width="364" height="103">
+        <frame id="64:836" name="Row1" x="17" y="15" width="332" height="40">
+          <frame id="64:837" name="TitleCol" x="0" y="0" width="280" height="40">
+            <text id="64:838" name="Company" x="0" y="0" width="154" height="21" />
+            <text id="64:839" name="CompanyMeta" x="0" y="23" width="89" height="17" />
+          </frame>
+          <text id="64:840" name="Amount" x="280" y="0" width="52" height="21" />
+        </frame>
+        <frame id="64:841" name="Row2" x="17" y="63" width="332" height="25">
+          <frame id="64:842" name="Chip/Negotiation" x="0" y="0" width="98" height="25">
+            <ellipse id="64:843" name="Dot" x="9" y="9.5" width="6" height="6" />
+            <text id="64:844" name="Label" x="20" y="4" width="69" height="17" />
+          </frame>
+          <text id="64:845" name="Close" x="106" y="4" width="73" height="17" />
+        </frame>
+      </frame>
+      <frame id="64:846" name="DealCard/BrightPath Co" x="24" y="552" width="364" height="103">
+        <frame id="64:847" name="Row1" x="17" y="15" width="332" height="40">
+          <frame id="64:848" name="TitleCol" x="0" y="0" width="288" height="40">
+            <text id="64:849" name="Company" x="0" y="0" width="141" height="21" />
+            <text id="64:850" name="CompanyMeta" x="0" y="23" width="78" height="17" />
+          </frame>
+          <text id="64:851" name="Amount" x="288" y="0" width="44" height="21" />
+        </frame>
+        <frame id="64:852" name="Row2" x="17" y="63" width="332" height="25">
+          <frame id="64:853" name="Chip/Qualified" x="0" y="0" width="82" height="25">
+            <ellipse id="64:854" name="Dot" x="9" y="9.5" width="6" height="6" />
+            <text id="64:855" name="Label" x="20" y="4" width="53" height="17" />
+          </frame>
+          <text id="64:856" name="Close" x="90" y="4" width="73" height="17" />
+        </frame>
+      </frame>
+      <frame id="64:857" name="RecentlyWon" x="24" y="830" width="364" height="68">
+        <frame id="64:858" name="Icon" x="16" y="14" width="40" height="40">
+          <frame id="64:859" name="icon/check" x="8" y="8" width="24" height="24" />
+        </frame>
+        <frame id="64:861" name="Text" x="68" y="14" width="248" height="40">
+          <text id="64:862" name="Title" x="0" y="0" width="154" height="21" />
+          <text id="64:863" name="Subtitle" x="0" y="23" width="192" height="17" />
+        </frame>
+        <frame id="64:864" name="icon/chevron-right" x="328" y="24" width="20" height="20" />
+      </frame>
+      <frame id="123:868" name="DealCard/Vertex Retail" x="24" y="669" width="364" height="103">
+        <frame id="123:869" name="Row1" x="17" y="15" width="332" height="40">
+          <frame id="123:870" name="TitleCol" x="0" y="0" width="280" height="40">
+            <text id="123:871" name="Company" x="0" y="0" width="117" height="21" />
+            <text id="123:872" name="CompanyMeta" x="0" y="23" width="71" height="17" />
+          </frame>
+          <text id="123:873" name="Amount" x="280" y="0" width="52" height="21" />
+        </frame>
+        <frame id="123:874" name="Row2" x="17" y="63" width="332" height="25">
+          <frame id="123:875" name="Chip/Proposal" x="0" y="0" width="80" height="25">
+            <ellipse id="123:876" name="Dot" x="9" y="9.5" width="6" height="6" />
+            <text id="123:877" name="Label" x="20" y="4" width="51" height="17" />
+          </frame>
+          <text id="123:878" name="Close" x="88" y="4" width="73" height="17" />
+        </frame>
+      </frame>
+      <text id="123:879" name="SectionTitle/Open deals" x="24" y="282" width="93" height="22" />
+      <text id="123:880" name="SectionTitle/Recently won" x="24" y="794" width="109" height="22" />
+      <instance id="64:869" name="BottomNav/Deals" x="0" y="820" width="412" height="72" />
+      <frame id="64:866" name="IconButton/plus" x="332" y="728" width="56" height="56">
+        <frame id="64:867" name="icon/plus" x="16" y="16" width="24" height="24" />
+      </frame>
+      <frame id="64:870" name="IconButton/bell" x="284" y="44" width="48" height="48">
+        <frame id="64:871" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="64:873" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="64:874" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+    </frame>
+    <frame id="64:875" name="Settings · Dark" x="1968" y="4120" width="412" height="892">
+      <frame id="64:876" name="StatusBar" x="0" y="0" width="412" height="28">
+        <text id="64:877" name="Time" x="20" y="6" width="24" height="17" />
+        <frame id="64:878" name="SystemIcons" x="334" y="7" width="58" height="14" />
+      </frame>
+      <text id="64:889" name="Title" x="24" y="44" width="100" height="30" />
+      <text id="64:890" name="Subtitle" x="24" y="76" width="232" height="17" />
+      <frame id="64:891" name="ProfileCard" x="24" y="116" width="364" height="84">
+        <frame id="64:892" name="Avatar/52" x="17" y="16" width="52" height="52">
+          <text id="64:893" name="Initials" x="13" y="15" width="26" height="22" />
+        </frame>
+        <frame id="64:894" name="Text" x="81" y="22" width="234" height="40">
+          <text id="64:895" name="Name" x="0" y="0" width="85" height="21" />
+          <text id="64:896" name="Role" x="0" y="23" width="171" height="17" />
+        </frame>
+        <frame id="64:897" name="icon/chevron-right" x="327" y="32" width="20" height="20" />
+      </frame>
+      <text id="64:899" name="SectionLabel" x="24" y="222" width="24" height="17" hidden="true" />
+      <frame id="64:900" name="GroupCard" x="24" y="246" width="364" height="172" hidden="true">
+        <frame id="64:901" name="Row/Profile" x="1" y="1" width="362" height="56">
+          <frame id="64:902" name="icon/user" x="16" y="16" width="24" height="24" />
+          <text id="64:904" name="Label" x="52" y="17.5" width="262" height="21" />
+          <frame id="64:905" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+        <rounded-rectangle id="64:907" name="Divider" x="1" y="57" width="362" height="1" />
+        <frame id="64:908" name="Row/Notifications" x="1" y="58" width="362" height="56">
+          <frame id="64:909" name="icon/bell" x="16" y="16" width="24" height="24" />
+          <text id="64:911" name="Label" x="52" y="17.5" width="238" height="21" />
+          <text id="64:912" name="Value" x="302" y="19.5" width="12" height="17" />
+          <frame id="64:913" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+        <rounded-rectangle id="64:915" name="Divider" x="1" y="114" width="362" height="1" />
+        <frame id="64:916" name="Row/Workspace" x="1" y="115" width="362" height="56">
+          <frame id="64:917" name="icon/building" x="16" y="16" width="24" height="24" />
+          <text id="64:919" name="Label" x="52" y="17.5" width="202" height="21" />
+          <text id="64:920" name="Value" x="266" y="19.5" width="48" height="17" />
+          <frame id="64:921" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+      </frame>
+      <text id="64:923" name="SectionLabel" x="24" y="440" width="48" height="17" hidden="true" />
+      <frame id="64:924" name="GroupCard" x="24" y="464" width="364" height="172" hidden="true">
+        <frame id="64:925" name="Row/Appearance" x="1" y="1" width="362" height="56">
+          <frame id="64:926" name="icon/sliders" x="16" y="16" width="24" height="24" />
+          <text id="64:928" name="Label" x="52" y="17.5" width="226" height="21" />
+          <text id="64:929" name="Value" x="290" y="19.5" width="24" height="17" />
+          <frame id="64:930" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+        <rounded-rectangle id="64:932" name="Divider" x="1" y="57" width="362" height="1" />
+        <frame id="64:933" name="Row/Language" x="1" y="58" width="362" height="56">
+          <frame id="64:934" name="icon/globe" x="16" y="16" width="24" height="24" />
+          <text id="64:936" name="Label" x="52" y="17.5" width="226" height="21" />
+          <text id="64:937" name="Value" x="290" y="19.5" width="24" height="17" />
+          <frame id="64:938" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+        <rounded-rectangle id="64:940" name="Divider" x="1" y="114" width="362" height="1" />
+        <frame id="64:941" name="Row/Data &amp; sync" x="1" y="115" width="362" height="56">
+          <frame id="64:942" name="icon/cloud" x="16" y="16" width="24" height="24" />
+          <text id="64:944" name="Label" x="52" y="17.5" width="168" height="21" />
+          <text id="64:945" name="Value" x="232" y="19.5" width="82" height="17" />
+          <frame id="64:946" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+      </frame>
+      <text id="64:948" name="SectionLabel" x="24" y="658" width="24" height="17" hidden="true" />
+      <frame id="64:949" name="GroupCard" x="24" y="682" width="364" height="115" hidden="true">
+        <frame id="64:950" name="Row/Help center" x="1" y="1" width="362" height="56">
+          <frame id="64:951" name="icon/help" x="16" y="16" width="24" height="24" />
+          <text id="64:953" name="Label" x="52" y="17.5" width="262" height="21" />
+          <frame id="64:954" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+        <rounded-rectangle id="64:956" name="Divider" x="1" y="57" width="362" height="1" />
+        <frame id="64:957" name="Row/Sign out" x="1" y="58" width="362" height="56">
+          <frame id="64:958" name="icon/log-out" x="16" y="16" width="24" height="24" />
+          <text id="64:960" name="Label" x="52" y="17.5" width="262" height="21" />
+          <frame id="64:961" name="icon/chevron-right" x="326" y="18" width="20" height="20" />
+        </frame>
+      </frame>
+      <frame id="124:947" name="SettingsContent" x="0" y="222" width="412" height="820">
+        <text id="124:948" name="SectionLabel" x="24" y="0" width="58" height="17" />
+        <frame id="124:949" name="GroupCard" x="24" y="24" width="364" height="196">
+          <frame id="124:950" name="Row/Personal information" x="1" y="1" width="362" height="64">
+            <frame id="124:951" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:952" name="icon/user" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:954" name="Title" x="64" y="11" width="144" height="21" />
+            <text id="124:955" name="Subtitle" x="64" y="33" width="99" height="17" />
+            <frame id="124:956" name="icon/chevron-right" x="326" y="22" width="20" height="20" />
+          </frame>
+          <rounded-rectangle id="124:958" name="Divider" x="64" y="65" width="298" height="1" />
+          <frame id="124:959" name="Row/Security" x="1" y="66" width="362" height="64">
+            <frame id="124:960" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:961" name="icon/shield" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:963" name="Title" x="64" y="11" width="55" height="21" />
+            <text id="124:964" name="Subtitle" x="64" y="33" width="129" height="17" />
+            <frame id="124:965" name="icon/chevron-right" x="326" y="22" width="20" height="20" />
+          </frame>
+          <rounded-rectangle id="124:967" name="Divider" x="64" y="130" width="298" height="1" />
+          <frame id="124:968" name="Row/Team members" x="1" y="131" width="362" height="64">
+            <frame id="124:969" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:970" name="icon/users" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:975" name="Title" x="64" y="11" width="106" height="21" />
+            <text id="124:976" name="Subtitle" x="64" y="33" width="164" height="17" />
+            <frame id="124:977" name="icon/chevron-right" x="326" y="22" width="20" height="20" />
+          </frame>
+        </frame>
+        <text id="124:979" name="SectionLabel" x="24" y="242" width="80" height="17" />
+        <frame id="124:980" name="GroupCard" x="24" y="266" width="364" height="261">
+          <frame id="124:981" name="Row/Appearance" x="1" y="1" width="362" height="64">
+            <frame id="124:982" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:983" name="icon/moon" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:985" name="Title" x="64" y="11" width="81" height="21" />
+            <text id="124:986" name="Subtitle" x="64" y="33" width="28" height="17" />
+            <frame id="124:987" name="icon/chevron-right" x="326" y="22" width="20" height="20" />
+          </frame>
+          <rounded-rectangle id="124:989" name="Divider" x="64" y="65" width="298" height="1" />
+          <frame id="124:990" name="Row/Notifications" x="1" y="66" width="362" height="64">
+            <frame id="124:991" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:992" name="icon/bell" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:994" name="Title" x="64" y="11" width="87" height="21" />
+            <text id="124:995" name="Subtitle" x="64" y="33" width="155" height="17" />
+            <frame id="124:996" name="Switch/On" x="294" y="16" width="52" height="32" />
+          </frame>
+          <rounded-rectangle id="124:998" name="Divider" x="64" y="130" width="298" height="1" />
+          <frame id="124:999" name="Row/Offline demo mode" x="1" y="131" width="362" height="64">
+            <frame id="124:1000" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:1001" name="icon/wifioff" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:1009" name="Title" x="64" y="11" width="131" height="21" />
+            <text id="124:1010" name="Subtitle" x="64" y="33" width="174" height="17" />
+            <frame id="124:1011" name="Switch/Off" x="294" y="16" width="52" height="32" />
+          </frame>
+          <rounded-rectangle id="124:1013" name="Divider" x="64" y="195" width="298" height="1" />
+          <frame id="124:1014" name="Row/Language" x="1" y="196" width="362" height="64">
+            <frame id="124:1015" name="IconTile" x="16" y="14" width="36" height="36">
+              <frame id="124:1016" name="icon/globe" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:1018" name="Title" x="64" y="11" width="66" height="21" />
+            <text id="124:1019" name="Subtitle" x="64" y="33" width="40" height="17" />
+            <frame id="124:1020" name="icon/chevron-right" x="326" y="22" width="20" height="20" />
+          </frame>
+        </frame>
+        <text id="124:1022" name="SectionLabel" x="24" y="549" width="55" height="17" />
+        <frame id="124:1023" name="GroupCard" x="24" y="573" width="364" height="107">
+          <frame id="124:1024" name="Row/Help center" x="1" y="1" width="362" height="52">
+            <frame id="124:1025" name="IconTile" x="16" y="8" width="36" height="36">
+              <frame id="124:1026" name="icon/help" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:1028" name="Title" x="64" y="16" width="79" height="21" />
+            <frame id="124:1029" name="icon/chevron-right" x="326" y="16" width="20" height="20" />
+          </frame>
+          <rounded-rectangle id="124:1031" name="Divider" x="64" y="53" width="298" height="1" />
+          <frame id="124:1032" name="Row/Privacy policy" x="1" y="54" width="362" height="52">
+            <frame id="124:1033" name="IconTile" x="16" y="8" width="36" height="36">
+              <frame id="124:1034" name="icon/shieldcheck" x="9" y="9" width="18" height="18" />
+            </frame>
+            <text id="124:1037" name="Title" x="64" y="16" width="92" height="21" />
+            <frame id="124:1038" name="icon/chevron-right" x="326" y="16" width="20" height="20" />
+          </frame>
+        </frame>
+        <frame id="124:1040" name="SignOutCard" x="24" y="726" width="81" height="52">
+          <frame id="124:1041" name="icon/log-out" x="0" y="17" width="18" height="18" />
+          <text id="124:1043" name="SignOut" x="26" y="15.5" width="55" height="21" />
+        </frame>
+        <text id="124:1044" name="Version" x="24" y="790" width="364" height="17" />
+      </frame>
+      <instance id="64:963" name="BottomNav/Settings" x="0" y="820" width="412" height="72" />
+      <frame id="64:964" name="IconButton/bell" x="340" y="40" width="48" height="48">
+        <frame id="64:965" name="icon/bell" x="12" y="12" width="24" height="24" />
+        <ellipse id="64:967" name="UnreadBadge" x="24" y="7" width="16" height="16" />
+        <text id="64:968" name="Count" x="24" y="7" width="16" height="16" />
+      </frame>
+    </frame>
+  </canvas>
+  <canvas id="0:2" name="Internal Only Canvas" x="0" y="0" width="0" height="0" hidden="true">
+    <variable-set id="2:3" name="CRM Tokens" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:4" name="color/primary" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:5" name="color/primaryDark" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:6" name="color/primarySoft" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:7" name="color/accent" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:8" name="color/accentSoft" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:9" name="color/bg" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:10" name="color/fg" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:11" name="color/card" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:12" name="color/muted" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:13" name="color/mutedFg" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:14" name="color/border" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:15" name="color/destructive" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:16" name="color/destructiveSoft" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:17" name="color/warning" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:18" name="color/onPrimary" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:19" name="color/onAccent" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:20" name="color/white" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:21" name="color/ink" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:22" name="radius/sm" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:23" name="radius/md" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:24" name="radius/lg" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:25" name="radius/xl" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:26" name="radius/full" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:27" name="space/1" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:28" name="space/2" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:29" name="space/3" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:30" name="space/4" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:31" name="space/5" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:32" name="space/6" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:33" name="space/8" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="2:34" name="space/12" x="0" y="0" width="0" height="0" hidden="true" />
+    <text id="2:35" name="Display/32" x="0" y="0" width="40" height="38" />
+    <text id="2:36" name="H1/24" x="0" y="0" width="30" height="30" />
+    <text id="2:37" name="H2/20" x="0" y="0" width="25" height="26" />
+    <text id="2:38" name="H3/16" x="0" y="0" width="20" height="22" />
+    <text id="2:39" name="Body/14" x="0" y="0" width="17" height="21" />
+    <text id="2:40" name="BodyStrong/14" x="0" y="0" width="17" height="21" />
+    <text id="2:41" name="Label/13" x="0" y="0" width="16" height="18" />
+    <text id="2:42" name="Caption/12" x="0" y="0" width="15" height="17" />
+    <text id="2:43" name="CaptionStrong/12" x="0" y="0" width="15" height="17" />
+    <text id="2:44" name="Number/26" x="0" y="0" width="37" height="31" />
+    <rounded-rectangle id="3:41" name="Shadow/Card" x="0" y="0" width="100" height="100" />
+    <rounded-rectangle id="3:42" name="Shadow/Menu" x="0" y="0" width="100" height="100" />
+    <rounded-rectangle id="3:43" name="Shadow/Dialog" x="0" y="0" width="100" height="100" />
+    <variable id="15:637" name="color/accentText" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="15:638" name="color/warningText" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="15:639" name="color/destructiveText" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="15:640" name="color/primaryText" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="64:671" name="color/warningSoft" x="0" y="0" width="0" height="0" hidden="true" />
+    <variable id="68:807" name="color/scrim" x="0" y="0" width="0" height="0" hidden="true" />
+    <brush id="93:810" name="Heist" x="0" y="0" width="255.9994659423828" height="16.000051498413086" />
+    <brush id="93:811" name="Blockbuster" x="0" y="0" width="255.9993438720703" height="15.999393463134766" />
+    <brush id="93:812" name="Grindhouse" x="0" y="0" width="255.99952697753906" height="15.99996280670166" />
+    <brush id="93:813" name="Biopic" x="0" y="0" width="255.99537658691406" height="16.000003814697266" />
+    <brush id="93:814" name="Spaghetti Western" x="0" y="0" width="256.10992431640625" height="13.412424087524414" />
+    <brush id="93:815" name="Slasher" x="0" y="0" width="255.9997100830078" height="15.999547004699707" />
+    <brush id="93:816" name="Hardboiled" x="0" y="0" width="256.00042724609375" height="16.00079345703125" />
+    <brush id="93:817" name="Vérité" x="0" y="0" width="256" height="16" />
+    <brush id="93:818" name="Epic" x="0" y="0" width="256.0002746582031" height="15.999560356140137" />
+    <brush id="93:819" name="Screwball" x="0" y="0" width="255.99993896484375" height="15.999544143676758" />
+    <brush id="93:820" name="Rom-com" x="0" y="0" width="256" height="16.00067710876465" />
+    <brush id="93:821" name="Noir" x="0" y="0" width="255.999755859375" height="15.999939918518066" />
+    <brush id="93:822" name="Propaganda" x="0" y="0" width="256.0009765625" height="16.02855682373047" />
+    <brush id="93:823" name="Melodrama" x="0" y="0" width="256" height="15.999700546264648" />
+    <brush id="93:824" name="New Wave" x="0" y="0" width="256" height="16.000492095947266" />
+    <brush id="93:825" name="Bubblegum" x="0" y="0" width="358" height="348" />
+    <brush id="93:826" name="Witch house" x="0" y="0" width="340.39984130859375" height="387.6716613769531" />
+    <brush id="93:827" name="Shoegaze" x="0" y="0" width="191.93179321289062" height="202" />
+    <brush id="93:828" name="Honky-tonk" x="0" y="0" width="272.22381591796875" height="308.7270812988281" />
+    <brush id="93:829" name="Screamo" x="0" y="0" width="321" height="357" />
+    <brush id="93:830" name="Drone" x="0" y="0" width="326.5410461425781" height="334.7863464355469" />
+    <brush id="93:831" name="Doo-wop" x="0" y="0" width="365" height="365" />
+    <brush id="93:832" name="Spoken word" x="0" y="0" width="338.2658996582031" height="361.981201171875" />
+    <brush id="93:833" name="Vaporwave" x="0" y="0" width="256.86834716796875" height="276.9530029296875" />
+    <brush id="93:834" name="Oi!" x="0" y="0" width="346.7860107421875" height="313.53948974609375" />
+  </canvas>
+  <canvas id="2:2" name="Components" x="0" y="0" width="0" height="0">
+    <symbol id="3:4" name="Button/Primary" x="0" y="0" width="96" height="48" />
+    <symbol id="3:6" name="Button/Secondary" x="0" y="93" width="98" height="48" />
+    <symbol id="3:8" name="Button/Danger" x="0" y="188" width="96" height="48" />
+    <symbol id="3:10" name="IconButton/Ghost" x="0" y="281" width="48" height="48" />
+    <symbol id="3:15" name="StatusChip/Active" x="0" y="373" width="50" height="25" />
+    <symbol id="3:18" name="StatusChip/Pending" x="0" y="446" width="62" height="25" />
+    <symbol id="3:21" name="StatusChip/New" x="0" y="519" width="62" height="25" />
+    <symbol id="3:24" name="Avatar/40" x="0" y="592" width="40" height="40" />
+    <symbol id="3:26" name="MenuItem" x="0" y="680" width="98" height="37" />
+    <symbol id="3:30" name="TextField" x="0" y="765" width="328" height="73" />
+    <symbol id="3:34" name="SearchField" x="0" y="823" width="364" height="48" />
+    <symbol id="3:38" name="SectionHeader" x="0" y="919" width="364" height="24" />
+    <symbol id="3:44" name="StatCard" x="0" y="1007" width="176" height="142" />
+    <symbol id="3:52" name="CustomerRow" x="0" y="1089" width="364" height="64" />
+    <symbol id="3:60" name="BottomNav" x="0" y="1201" width="412" height="72" />
+    <symbol id="3:77" name="MoreMenu" x="0" y="1321" width="220" height="225" />
+    <symbol id="4:3" name="StatCard/Revenue" x="0" y="1570" width="176" height="142" />
+    <symbol id="4:13" name="StatCard/Deals" x="0" y="1752" width="176" height="142" />
+    <symbol id="4:23" name="BottomNav/Customers" x="0" y="1934" width="412" height="72" />
+    <symbol id="4:40" name="BottomNav/Deals" x="0" y="2046" width="412" height="72" />
+    <symbol id="4:57" name="BottomNav/Settings" x="0" y="2158" width="412" height="72" />
+  </canvas>
+</document>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.
+Figma recommends using the remote MCP server for workflows between design and code: https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/

@@ -1,0 +1,24 @@
+const imgDot = "http://localhost:3845/assets/2126f36b950fe7a2d4e63bd9a6f28348a8e4278b.svg";
+
+export default function StatusChipNew({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[var(--color\\/muted,#f1f5fd)] content-stretch flex gap-[var(--space\\/1,4px)] items-center px-[var(--space\\/2,8px)] py-[var(--space\\/1,4px)] relative rounded-[var(--radius\\/full,999px)]"} data-node-id="3:21" data-name="StatusChip/New">
+      <div className="relative shrink-0 size-[6px]" data-node-id="3:22" data-name="Dot">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgDot} />
+      </div>
+      <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/primarytext,#1d4ed8)] whitespace-nowrap" data-node-id="3:23" style={{ fontVariationSettings: '"wdth" 100' }}>
+        新客户
+      </p>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Image assets are stored on a localhost server. Clients can use these images directly in code as a way to view the image assets the same way they would other remote servers. Images and SVGs will be stored as constants, e.g. const image = 'http://localhost:3845/assets/10c13ac1a228a365cb98a0064b1d5afbc84887b2.png' These constants will be used in the code as the source for the image, e.g. <img src={image} /> This is true for both images and SVGs, so you can use the same approach for both types of assets.
+Figma recommends using the remote MCP server for workflows between design and code: https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/

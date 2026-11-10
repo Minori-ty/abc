@@ -1,0 +1,295 @@
+const imgSystemIcons = "http://localhost:3845/assets/81f8a8538d4bbfa5ee40514a76fdedb026c868b7.svg";
+const imgIconMoreVertical = "http://localhost:3845/assets/554c176f5d07e39a7e32e021d053c1fab22a2baa.svg";
+const imgIconSearch = "http://localhost:3845/assets/d97f34cfe4eeacb43c3dae772da75c15fa7eefd8.svg";
+const imgIconChevronRight = "http://localhost:3845/assets/0d09fedafc220528ddd96bda4f7bf04c7db04281.svg";
+const imgIconClock = "http://localhost:3845/assets/e3490f3ea9b7157016e392d81bdaf1190dafb13f.svg";
+const imgIconBell = "http://localhost:3845/assets/97b44956ee2e430995c1c0afc894f482ea1c5ed5.svg";
+const imgUnreadBadge = "http://localhost:3845/assets/ea8a30f6f1df1607794703f571696cdaf9fa93b5.svg";
+const imgIconPlus = "http://localhost:3845/assets/1accbe0405467d89f13a40a7cf10f35bd9230712.svg";
+const imgIconHome = "http://localhost:3845/assets/75e9452b6df624136773aa293fb2f67aec3fba0e.svg";
+const imgIconUsers = "http://localhost:3845/assets/ea3d5b86df4f3141d34ac6d98b2a22da62f512b2.svg";
+const imgIconBriefcase = "http://localhost:3845/assets/bde99eb5dffe5725ab9cf6b31aebd49e38c1c42d.svg";
+const imgIconSettingsGear = "http://localhost:3845/assets/a83dc14c3ad3e80b2e723c4396cc8df99b2b8ff3.svg";
+
+export default function CustomersDark() {
+  return (
+    <div className="bg-[var(--color\/bg,#0b1220)] relative size-full" data-node-id="64:738" data-name="Customers · Dark">
+      <div className="absolute h-[28px] left-0 overflow-clip top-0 w-[412px]" data-node-id="64:739" data-name="StatusBar">
+        <p className="[word-break:break-word] absolute font-['Open_Sans:SemiBold'] font-semibold leading-[1.45] left-[20px] text-[12px] text-[color:var(--color\/fg,#e6edf8)] top-[6px] whitespace-nowrap" data-node-id="64:740" style={{ fontVariationSettings: '"wdth" 100' }}>
+          9:41
+        </p>
+        <div className="absolute h-[14px] left-[334px] top-[7px] w-[58px]" data-node-id="64:741" data-name="SystemIcons">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSystemIcons} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Poppins:SemiBold'] leading-[1.25] left-[24px] not-italic text-[24px] text-[color:var(--color\/fg,#e6edf8)] top-[44px] whitespace-nowrap" data-node-id="64:752">
+        Customers
+      </p>
+      <p className="[word-break:break-word] absolute font-['Open_Sans:Regular'] font-normal leading-[1.45] left-[24px] text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)] top-[76px] whitespace-nowrap" data-node-id="64:753" style={{ fontVariationSettings: '"wdth" 100' }}>
+        1,284 contacts · 12 active deals
+      </p>
+      <div className="absolute content-stretch flex items-center justify-center left-[340px] rounded-[var(--radius\/full,999px)] size-[48px] top-[44px]" data-node-id="64:754" data-name="IconButton/Ghost">
+        <div className="relative shrink-0 size-[24px]" data-node-id="I64:754;3:11" data-name="icon/more-vertical">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconMoreVertical} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex gap-[var(--space\/2,8px)] h-[48px] items-center left-[24px] p-[var(--space\/3,12px)] rounded-[var(--radius\/md,12px)] top-[116px] w-[364px]" data-node-id="64:755" data-name="SearchField">
+        <div className="relative shrink-0 size-[20px]" data-node-id="I64:755;3:35" data-name="icon/search">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconSearch} />
+        </div>
+        <p className="[word-break:break-word] flex-[1_0_0] font-['Open_Sans:Regular'] font-normal leading-[1.5] min-w-px relative text-[14px] text-[color:var(--color\/mutedfg,#9fb0c7)]" data-node-id="I64:755;3:37" style={{ fontVariationSettings: '"wdth" 100' }}>
+          Search customers…
+        </p>
+      </div>
+      <div className="absolute content-stretch flex gap-[8px] h-[34px] items-center left-[24px] top-[178px]" data-node-id="64:756" data-name="FilterChips">
+        <div className="bg-[var(--color\/primary,#60a5fa)] content-stretch flex h-[34px] items-center justify-center overflow-clip px-[14px] py-[8px] relative rounded-[17px] shrink-0" data-node-id="64:757" data-name="FilterChip/All">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[12px] text-[color:var(--color\/onprimary,#0b1220)] whitespace-nowrap" data-node-id="64:758" style={{ fontVariationSettings: '"wdth" 100' }}>
+            All
+          </p>
+        </div>
+        <div className="bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex h-[34px] items-center justify-center overflow-clip px-[14px] py-[8px] relative rounded-[17px] shrink-0" data-node-id="64:759" data-name="FilterChip/Active">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)] whitespace-nowrap" data-node-id="64:760" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Active
+          </p>
+        </div>
+        <div className="bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex h-[34px] items-center justify-center overflow-clip px-[14px] py-[8px] relative rounded-[17px] shrink-0" data-node-id="64:761" data-name="FilterChip/Pending">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)] whitespace-nowrap" data-node-id="64:762" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Pending
+          </p>
+        </div>
+        <div className="bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex h-[34px] items-center justify-center overflow-clip px-[14px] py-[8px] relative rounded-[17px] shrink-0" data-node-id="64:763" data-name="FilterChip/New">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)] whitespace-nowrap" data-node-id="64:764" style={{ fontVariationSettings: '"wdth" 100' }}>
+            New
+          </p>
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex gap-[var(--space\/3,12px)] h-[64px] items-center left-[24px] p-[var(--space\/3,12px)] rounded-[var(--radius\/md,12px)] top-[232px] w-[364px]" data-node-id="64:766" data-name="CustomerRow">
+        <div className="bg-[var(--color\/primarysoft,#1b3350)] content-stretch flex items-center justify-center relative rounded-[var(--radius\/full,999px)] shrink-0 size-[40px]" data-node-id="I64:766;3:53" data-name="Avatar/40">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.4] relative shrink-0 text-[13px] text-[color:var(--color\/primarytext,#60a5fa)] whitespace-nowrap" data-node-id="I64:766;3:53;3:25" style={{ fontVariationSettings: '"wdth" 100' }}>
+            OM
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[2px] items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="I64:766;3:55" data-name="Info">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#e6edf8)]" data-node-id="I64:766;3:56" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Olivia Martin
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)]" data-node-id="I64:766;3:57" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Acme Studio
+          </p>
+        </div>
+        <div className="relative shrink-0 size-[20px]" data-node-id="I64:766;3:58" data-name="icon/chevron-right">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconChevronRight} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex gap-[var(--space\/3,12px)] h-[64px] items-center left-[24px] p-[var(--space\/3,12px)] rounded-[var(--radius\/md,12px)] top-[306px] w-[364px]" data-node-id="64:767" data-name="CustomerRow">
+        <div className="bg-[var(--color\/primarysoft,#1b3350)] content-stretch flex items-center justify-center relative rounded-[var(--radius\/full,999px)] shrink-0 size-[40px]" data-node-id="I64:767;3:53" data-name="Avatar/40">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.4] relative shrink-0 text-[13px] text-[color:var(--color\/primarytext,#60a5fa)] whitespace-nowrap" data-node-id="I64:767;3:53;3:25" style={{ fontVariationSettings: '"wdth" 100' }}>
+            LC
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[2px] items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="I64:767;3:55" data-name="Info">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#e6edf8)]" data-node-id="I64:767;3:56" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Liam Chen
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)]" data-node-id="I64:767;3:57" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Northwind Labs
+          </p>
+        </div>
+        <div className="relative shrink-0 size-[20px]" data-node-id="I64:767;3:58" data-name="icon/chevron-right">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconChevronRight} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex gap-[var(--space\/3,12px)] h-[64px] items-center left-[24px] p-[var(--space\/3,12px)] rounded-[var(--radius\/md,12px)] top-[380px] w-[364px]" data-node-id="64:768" data-name="CustomerRow">
+        <div className="bg-[var(--color\/primarysoft,#1b3350)] content-stretch flex items-center justify-center relative rounded-[var(--radius\/full,999px)] shrink-0 size-[40px]" data-node-id="I64:768;3:53" data-name="Avatar/40">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.4] relative shrink-0 text-[13px] text-[color:var(--color\/primarytext,#60a5fa)] whitespace-nowrap" data-node-id="I64:768;3:53;3:25" style={{ fontVariationSettings: '"wdth" 100' }}>
+            SR
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[2px] items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="I64:768;3:55" data-name="Info">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#e6edf8)]" data-node-id="I64:768;3:56" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Sofia Reyes
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)]" data-node-id="I64:768;3:57" style={{ fontVariationSettings: '"wdth" 100' }}>
+            BrightPath Co
+          </p>
+        </div>
+        <div className="relative shrink-0 size-[20px]" data-node-id="I64:768;3:58" data-name="icon/chevron-right">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconChevronRight} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex gap-[var(--space\/3,12px)] h-[64px] items-center left-[24px] p-[var(--space\/3,12px)] rounded-[var(--radius\/md,12px)] top-[454px] w-[364px]" data-node-id="64:769" data-name="CustomerRow">
+        <div className="bg-[var(--color\/primarysoft,#1b3350)] content-stretch flex items-center justify-center relative rounded-[var(--radius\/full,999px)] shrink-0 size-[40px]" data-node-id="I64:769;3:53" data-name="Avatar/40">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.4] relative shrink-0 text-[13px] text-[color:var(--color\/primarytext,#60a5fa)] whitespace-nowrap" data-node-id="I64:769;3:53;3:25" style={{ fontVariationSettings: '"wdth" 100' }}>
+            NP
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[2px] items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="I64:769;3:55" data-name="Info">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#e6edf8)]" data-node-id="I64:769;3:56" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Noah Patel
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)]" data-node-id="I64:769;3:57" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Vertex Retail
+          </p>
+        </div>
+        <div className="relative shrink-0 size-[20px]" data-node-id="I64:769;3:58" data-name="icon/chevron-right">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconChevronRight} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex gap-[var(--space\/3,12px)] h-[64px] items-center left-[24px] p-[var(--space\/3,12px)] rounded-[var(--radius\/md,12px)] top-[528px] w-[364px]" data-node-id="64:770" data-name="CustomerRow">
+        <div className="bg-[var(--color\/primarysoft,#1b3350)] content-stretch flex items-center justify-center relative rounded-[var(--radius\/full,999px)] shrink-0 size-[40px]" data-node-id="I64:770;3:53" data-name="Avatar/40">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.4] relative shrink-0 text-[13px] text-[color:var(--color\/primarytext,#60a5fa)] whitespace-nowrap" data-node-id="I64:770;3:53;3:25" style={{ fontVariationSettings: '"wdth" 100' }}>
+            EW
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[2px] items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="I64:770;3:55" data-name="Info">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#e6edf8)]" data-node-id="I64:770;3:56" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Emma Wilson
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)]" data-node-id="I64:770;3:57" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Lumen Health
+          </p>
+        </div>
+        <div className="relative shrink-0 size-[20px]" data-node-id="I64:770;3:58" data-name="icon/chevron-right">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconChevronRight} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex gap-[12px] items-center left-[24px] overflow-clip px-[16px] py-[14px] rounded-[var(--radius\/lg,16px)] shadow-[0px_4px_12px_0px_rgba(15,23,41,0.06)] top-[864px] w-[364px]" data-node-id="64:771" data-name="FollowUpCard">
+        <div className="bg-[var(--color\/accentsoft,#12352b)] content-stretch flex items-center justify-center overflow-clip relative rounded-[var(--radius\/md,12px)] shrink-0 size-[40px]" data-node-id="64:772" data-name="IconTile">
+          <div className="relative shrink-0 size-[24px]" data-node-id="64:773" data-name="icon/clock">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconClock} />
+          </div>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[2px] items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="64:775" data-name="Text">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#e6edf8)]" data-node-id="64:776" style={{ fontVariationSettings: '"wdth" 100' }}>
+            3 customers need follow-up
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)]" data-node-id="64:777" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Last contact over 7 days ago
+          </p>
+        </div>
+        <div className="relative shrink-0 size-[20px]" data-node-id="64:778" data-name="icon/chevron-right">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconChevronRight} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex gap-[var(--space\/3,12px)] h-[64px] items-center left-[24px] p-[var(--space\/3,12px)] rounded-[var(--radius\/md,12px)] top-[750px] w-[364px]" data-node-id="123:847" data-name="CustomerRow">
+        <div className="bg-[var(--color\/primarysoft,#1b3350)] content-stretch flex items-center justify-center relative rounded-[var(--radius\/full,999px)] shrink-0 size-[40px]" data-node-id="I123:847;3:53" data-name="Avatar/40">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.4] relative shrink-0 text-[13px] text-[color:var(--color\/primarytext,#60a5fa)] whitespace-nowrap" data-node-id="I123:847;3:53;3:25" style={{ fontVariationSettings: '"wdth" 100' }}>
+            EB
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[2px] items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="I123:847;3:55" data-name="Info">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#e6edf8)]" data-node-id="I123:847;3:56" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Ethan Brooks
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)]" data-node-id="I123:847;3:57" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Summit Realty
+          </p>
+        </div>
+        <div className="relative shrink-0 size-[20px]" data-node-id="I123:847;3:58" data-name="icon/chevron-right">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconChevronRight} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex gap-[var(--space\/3,12px)] h-[64px] items-center left-[24px] p-[var(--space\/3,12px)] rounded-[var(--radius\/md,12px)] top-[676px] w-[364px]" data-node-id="123:839" data-name="CustomerRow">
+        <div className="bg-[var(--color\/primarysoft,#1b3350)] content-stretch flex items-center justify-center relative rounded-[var(--radius\/full,999px)] shrink-0 size-[40px]" data-node-id="I123:839;3:53" data-name="Avatar/40">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.4] relative shrink-0 text-[13px] text-[color:var(--color\/primarytext,#60a5fa)] whitespace-nowrap" data-node-id="I123:839;3:53;3:25" style={{ fontVariationSettings: '"wdth" 100' }}>
+            MR
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[2px] items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="I123:839;3:55" data-name="Info">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#e6edf8)]" data-node-id="I123:839;3:56" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Maya Rossi
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)]" data-node-id="I123:839;3:57" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Nova Legal
+          </p>
+        </div>
+        <div className="relative shrink-0 size-[20px]" data-node-id="I123:839;3:58" data-name="icon/chevron-right">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconChevronRight} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex gap-[var(--space\/3,12px)] h-[64px] items-center left-[24px] p-[var(--space\/3,12px)] rounded-[var(--radius\/md,12px)] top-[602px] w-[364px]" data-node-id="123:831" data-name="CustomerRow">
+        <div className="bg-[var(--color\/primarysoft,#1b3350)] content-stretch flex items-center justify-center relative rounded-[var(--radius\/full,999px)] shrink-0 size-[40px]" data-node-id="I123:831;3:53" data-name="Avatar/40">
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[1.4] relative shrink-0 text-[13px] text-[color:var(--color\/primarytext,#60a5fa)] whitespace-nowrap" data-node-id="I123:831;3:53;3:25" style={{ fontVariationSettings: '"wdth" 100' }}>
+            DK
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[2px] items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="I123:831;3:55" data-name="Info">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#e6edf8)]" data-node-id="I123:831;3:56" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Daniel Kim
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#9fb0c7)]" data-node-id="I123:831;3:57" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Atlas Freight
+          </p>
+        </div>
+        <div className="relative shrink-0 size-[20px]" data-node-id="I123:831;3:58" data-name="icon/chevron-right">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconChevronRight} />
+        </div>
+      </div>
+      <div className="absolute left-[284px] overflow-clip size-[48px] top-[44px]" data-node-id="64:784" data-name="IconButton/bell">
+        <div className="absolute left-[12px] size-[24px] top-[12px]" data-node-id="64:785" data-name="icon/bell">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconBell} />
+        </div>
+        <div className="absolute left-[24px] size-[16px] top-[7px]" data-node-id="64:787" data-name="UnreadBadge">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUnreadBadge} />
+        </div>
+        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Open_Sans:SemiBold'] font-semibold justify-center leading-[0] left-[32px] size-[16px] text-[8px] text-[color:var(--color\/onprimary,#0b1220)] text-center top-[15px]" data-node-id="64:788" style={{ fontVariationSettings: '"wdth" 100' }}>
+          <p className="leading-[normal]">2</p>
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/primary,#60a5fa)] content-stretch flex items-center justify-center left-[332px] overflow-clip rounded-[var(--radius\/full,999px)] size-[56px] top-[740px]" data-node-id="64:780" data-name="IconButton/plus">
+        <div className="relative shrink-0 size-[24px]" data-node-id="64:781" data-name="icon/plus">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconPlus} />
+        </div>
+      </div>
+      <div className="absolute bg-[var(--color\/card,#111c2e)] border border-[var(--color\/border,#2b3c57)] border-solid content-stretch flex h-[72px] items-center left-0 top-[820px] w-[412px]" data-node-id="64:783" data-name="BottomNav/Customers">
+        <div className="content-stretch flex flex-col gap-[4px] h-[57px] items-center justify-center overflow-clip px-[12px] py-[6px] relative shrink-0 w-[103px]" data-node-id="I64:783;4:24" data-name="Item/Home">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I64:783;4:25" data-name="icon/home">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconHome} />
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[11px] text-[color:var(--color\/mutedfg,#9fb0c7)] text-center whitespace-nowrap" data-node-id="I64:783;4:27" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Home
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[4px] h-[57px] items-center justify-center overflow-clip px-[12px] py-[6px] relative shrink-0 w-[103px]" data-node-id="I64:783;4:28" data-name="Item/Customers">
+          <div className="absolute bg-[var(--color\/primarysoft,#1b3350)] h-[28px] left-[29.5px] rounded-[14px] top-[3px] w-[44px]" data-node-id="I64:783;15:688" data-name="ActivePill" />
+          <div className="relative shrink-0 size-[20px]" data-node-id="I64:783;4:29" data-name="icon/users">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconUsers} />
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[11px] text-[color:var(--color\/primary,#60a5fa)] text-center whitespace-nowrap" data-node-id="I64:783;4:31" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Customers
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[4px] h-[57px] items-center justify-center overflow-clip px-[12px] py-[6px] relative shrink-0 w-[103px]" data-node-id="I64:783;4:32" data-name="Item/Deals">
+          <div className="relative shrink-0 size-[20px]" data-node-id="I64:783;4:33" data-name="icon/briefcase">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconBriefcase} />
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[11px] text-[color:var(--color\/mutedfg,#9fb0c7)] text-center whitespace-nowrap" data-node-id="I64:783;4:35" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Deals
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[4px] h-[57px] items-center justify-center overflow-clip px-[12px] py-[6px] relative shrink-0 w-[103px]" data-node-id="I64:783;4:36" data-name="Item/Settings">
+          <div className="overflow-clip relative shrink-0 size-[20px]" data-node-id="I64:783;4:37" data-name="icon/sliders">
+            <div className="absolute left-0 size-[20px] top-0" data-node-id="I64:783;132:853" data-name="icon/settings-gear">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconSettingsGear} />
+            </div>
+          </div>
+          <p className="[word-break:break-word] font-['Open_Sans:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[11px] text-[color:var(--color\/mutedfg,#9fb0c7)] text-center whitespace-nowrap" data-node-id="I64:783;4:39" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Settings
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Shadow/Card: Effect(type: DROP_SHADOW, color: #0F17290F, offset: (0, 4), radius: 12, spread: 0).
+Image assets are stored on a localhost server. Clients can use these images directly in code as a way to view the image assets the same way they would other remote servers. Images and SVGs will be stored as constants, e.g. const image = 'http://localhost:3845/assets/10c13ac1a228a365cb98a0064b1d5afbc84887b2.png' These constants will be used in the code as the source for the image, e.g. <img src={image} /> This is true for both images and SVGs, so you can use the same approach for both types of assets.
+[IMAGE] E:\program\flutter\abc\.workbuddy\figma_out\64-738.png
+Figma recommends using the remote MCP server for workflows between design and code: https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/

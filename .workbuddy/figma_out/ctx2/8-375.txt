@@ -1,0 +1,77 @@
+const imgIconTrendingUp = "http://localhost:3845/assets/ad0630053950ee03853ba556b18fc960a83be951.svg";
+const imgIconMail = "http://localhost:3845/assets/b1edf466807260557c0a9c9a920f38b444ce84f8.svg";
+const imgIconPhone = "http://localhost:3845/assets/5f14287932701dc0de72f5d48b58c3d302d4cb71.svg";
+
+export default function ActivityFeed() {
+  return (
+    <div className="bg-[var(--color\/card,white)] border border-[var(--color\/border,#e4ecfc)] border-solid content-stretch flex flex-col items-start overflow-clip p-[6px] relative rounded-[var(--radius\/lg,16px)] shadow-[0px_4px_12px_0px_rgba(15,23,41,0.06)] size-full" data-node-id="8:375" data-name="ActivityFeed">
+      <div className="content-stretch flex gap-[12px] items-center overflow-clip px-[10px] py-[9px] relative rounded-[var(--radius\/md,12px)] shrink-0 w-full" data-node-id="8:376" data-name="Activity/0">
+        <div className="bg-[var(--color\/accentsoft,#d1fae5)] content-stretch flex items-center justify-center overflow-clip relative rounded-[var(--radius\/md,12px)] shrink-0 size-[34px]" data-node-id="8:377" data-name="EventIcon">
+          <div className="relative shrink-0 size-[20px]" data-node-id="8:378" data-name="icon/trending-up">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconTrendingUp} />
+          </div>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-px items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="8:380" data-name="Text">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#0f172a)]" data-node-id="8:381" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Deal moved to Proposal
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)]" data-node-id="8:382" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Olivia Martin · Acme Studio
+          </p>
+        </div>
+        <p className="[word-break:break-word] font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)] text-right whitespace-nowrap" data-node-id="8:383" style={{ fontVariationSettings: '"wdth" 100' }}>
+          12 min ago
+        </p>
+      </div>
+      <div className="bg-[var(--color\/border,#e4ecfc)] h-px relative shrink-0 w-full" data-node-id="8:384" data-name="Divider" />
+      <div className="content-stretch flex gap-[12px] items-center overflow-clip px-[10px] py-[9px] relative rounded-[var(--radius\/md,12px)] shrink-0 w-full" data-node-id="8:385" data-name="Activity/1">
+        <div className="bg-[var(--color\/primarysoft,#dbeafe)] content-stretch flex items-center justify-center overflow-clip relative rounded-[var(--radius\/md,12px)] shrink-0 size-[34px]" data-node-id="8:386" data-name="EventIcon">
+          <div className="relative shrink-0 size-[20px]" data-node-id="8:387" data-name="icon/mail">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconMail} />
+          </div>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-px items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="8:389" data-name="Text">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#0f172a)]" data-node-id="8:390" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Email sent to Liam Chen
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)]" data-node-id="8:391" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Northwind Labs · follow-up
+          </p>
+        </div>
+        <p className="[word-break:break-word] font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)] text-right whitespace-nowrap" data-node-id="8:392" style={{ fontVariationSettings: '"wdth" 100' }}>
+          1 hr ago
+        </p>
+      </div>
+      <div className="bg-[var(--color\/border,#e4ecfc)] h-px relative shrink-0 w-full" data-node-id="8:393" data-name="Divider" />
+      <div className="content-stretch flex gap-[12px] items-center overflow-clip px-[10px] py-[9px] relative rounded-[var(--radius\/md,12px)] shrink-0 w-full" data-node-id="8:394" data-name="Activity/2">
+        <div className="bg-[var(--color\/muted,#f1f5fd)] content-stretch flex items-center justify-center overflow-clip relative rounded-[var(--radius\/md,12px)] shrink-0 size-[34px]" data-node-id="8:395" data-name="EventIcon">
+          <div className="relative shrink-0 size-[20px]" data-node-id="8:396" data-name="icon/phone">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconPhone} />
+          </div>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-px items-start justify-center min-w-px overflow-clip relative whitespace-nowrap" data-node-id="8:398" data-name="Text">
+          <p className="font-['Open_Sans:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-[color:var(--color\/fg,#0f172a)]" data-node-id="8:399" style={{ fontVariationSettings: '"wdth" 100' }}>
+            Call logged with Sofia Reyes
+          </p>
+          <p className="font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)]" data-node-id="8:400" style={{ fontVariationSettings: '"wdth" 100' }}>
+            BrightPath Co · 8 min call
+          </p>
+        </div>
+        <p className="[word-break:break-word] font-['Open_Sans:Regular'] font-normal leading-[1.45] relative shrink-0 text-[12px] text-[color:var(--color\/mutedfg,#475569)] text-right whitespace-nowrap" data-node-id="8:401" style={{ fontVariationSettings: '"wdth" 100' }}>
+          3 hrs ago
+        </p>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Shadow/Card: Effect(type: DROP_SHADOW, color: #0F17290F, offset: (0, 4), radius: 12, spread: 0).
+Image assets are stored on a localhost server. Clients can use these images directly in code as a way to view the image assets the same way they would other remote servers. Images and SVGs will be stored as constants, e.g. const image = 'http://localhost:3845/assets/10c13ac1a228a365cb98a0064b1d5afbc84887b2.png' These constants will be used in the code as the source for the image, e.g. <img src={image} /> This is true for both images and SVGs, so you can use the same approach for both types of assets.
+Figma recommends using the remote MCP server for workflows between design and code: https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/
